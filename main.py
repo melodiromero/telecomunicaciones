@@ -54,65 +54,47 @@ df['link']          = [resultado_api['link']] if 'link' in resultado_api else ['
 
 print(df.head())
 
-df_recursos          = pd.DataFrame() # Creacion del dataframe de recursos
+df_recursos         = pd.DataFrame(columns=['doc_type', 'parameters', 'order', 'link', 'guid', 'type', 'id'])  # Creacion del dataframe de recursos
 
-dicc_recursos   = list()
-dicc_recursos = resultado_api['resources'] if 'resources' in resultado_api else ['']
+dicc_recursos       = resultado_api.get('resources', [])  # Inicializar dicc_recursos como una lista vacía si 'resources' no existe en resultado_api
 
-# Primer analisis: hay 4 tipos de recursos. ()
+# Primer análisis: hay 4 tipos de recursos.
 """
 | dt | tipo de recurso: conjunto de datos. |
 | ds | tipo de recurso: vistas. |
 | vz | tipo de recurso: visualizaciones. |
 | db | tipo de recurso: colecciones. |
 """
-print(type(dicc_recursos))
-# Verifica si la respuesta es un diccionario
-if isinstance(dicc_recursos, list):
-    # Accede al array de recursos en el diccionario principal
-    resources = dicc_recursos[0].get('resources', [])
-    
-    # Recorre cada diccionario en el array de recursos
-    for item in resources:
-         # Accede a las propiedades del diccionario de recursos y asigna los datos al dataframe df_recursos
-        df_recursos['doc_type']             = item.get('doc_type')
-        df_recursos['datastream_revision']  = item.get('datastream', {}).get('revision')
-        df_recursos['parameters']           = item.get('parameters')
-        df_recursos['h']                    = item.get('h')
-        df_recursos['order']                = item.get('order')
-        df_recursos['guid']                 = item.get('guid')
-        df_recursos['type']                 = item.get('type')
-        df_recursos['id']                   = item.get('id')
-       
-      
+
+if dicc_recursos:
+    print('pasa')
+
+    # Recorre cada diccionario en el listado de recursos
+    for elemento in dicc_recursos:
+        # Asigna sus elementos al df_recurso
+        nuevo_registro = {
+            'doc_type'  : elemento['doc_type'],
+            'parameters': elemento['parameters'],
+            'order'     : elemento['order'],
+            'link'      : elemento['link'],
+            'guid'      : elemento['guid'],
+            'type'      : elemento['type'],
+            'id'        : elemento['id']
+        }
+
+        print(nuevo_registro)
+
         
-        # Imprime las propiedades
-        print('Tipo de documento:', df_recursos['doc_type'])
-        print('Revisión del flujo de datos:', df_recursos['datastream_revision'] )
-    
-       
+
 else:
     print('La respuesta de la API no es un diccionario')
 
-"""
-# Verifica si la respuesta es una lista de diccionarios
-if isinstance(dicc_recursos, list):
-    # Recorre cada diccionario en la lista
-    for item in dicc_recursos:
-        # Accede a las propiedades del diccionario de recursos y asigna los datos al dataframe df_recursos
-        df_recursos['doc_type']             = item.get('doc_type')
-        df_recursos['datastream_revision']  = item.get('datastream', {}).get('revision')
-        df_recursos['parameters']           = item.get('parameters')
-        df_recursos['h']                    = item.get('h')
-        df_recursos['order']                = item.get('order')
-        df_recursos['guid']                 = item.get('guid')
-        df_recursos['type']                 = item.get('type')
-        df_recursos['id']                   = item.get('id')
-       
-        
-
-        """
 print(df_recursos)
+
+
+
+
+
 
 
 
