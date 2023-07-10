@@ -1,5 +1,9 @@
-# Telecomunicaciones
-Análisis de datos de una empresa prestadora de servicios de telecomunicaciones en Argentina. El objetivo es orientar a la empresa a  brindar una buena calidad en sus servicios, identificar  oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
+# ENACOM Telecomunicaciones
+La presente es un proyecto de de análisis exploratorio de datos y visualización de la información para la consecuente toma de decisiones estratégicas.
+El objeto de estudio es una empresa prestadora de servicios de telecomunicaciones en Argentina: ENACOM y se tiene como objetivo orientar a la empresa para brindar una buena calidad en sus servicios, identificando oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
+
+
+
 
 ## Diccionario de datos: metadatos
 | Nombre del campo | Descripción |
