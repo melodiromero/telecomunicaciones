@@ -3,7 +3,9 @@ La presente es un proyecto de de análisis exploratorio de datos y visualizació
 El objeto de estudio es una empresa prestadora de servicios de telecomunicaciones en Argentina: ENACOM y se tiene como objetivo orientar a la empresa para brindar una buena calidad en sus servicios, identificando oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
 
-
+Notas para tener en cuenta mñas adelante: no se eliminan los outliers porque no hay procesos sobre los datos, analisis o visualizacion de datos que lo requeira.
+https://datos.gob.ar/dataset/jgm-servicio-normalizacion-datos-geograficos/archivo/jgm_8.26
+se obtuvo datas adicionales
 
 ## Diccionario de datos: metadatos
 | Nombre del campo | Descripción |
