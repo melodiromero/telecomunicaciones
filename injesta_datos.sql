@@ -296,4 +296,42 @@ insert into localidades(nombre,id_provincia,id_partido,latitud,longitud)
 select localidad, id_provincia, partido, latitud, longitud from localidades_accesointernet_latylon;
 
 select * from localidades;
+-- ver si no se insertaron registros duplicados 
+select count(*) from localidades
+group by id_localidad, nombre, id_provincia, id_partido
+having count(*)>1
+-- no hay duplicados.
 
+
+
+-- Entidad Tecnologias de Acceso a Internet
+Drop table tecnologiasAcceso;
+CREATE TABLE IF NOT EXISTS tecnologiasAcceso(
+id_tecnologiaacceso int(11) auto_increment,
+nombre 	  			varchar(100) not null,
+primary key(id_tecnologiaacceso)
+);
+
+select * from tecnologiasAcceso;
+-- se cargan los datos de acuerdo a las tecnologias visualizadas como columnas en localidades_accesointernet_latylon
+insert into tecnologiasAcceso(nombre) values('ADSL');
+insert into tecnologiasAcceso(nombre) values('Cablemodem');
+insert into tecnologiasAcceso(nombre) values('Dial-Up');
+insert into tecnologiasAcceso(nombre) values('Fibra óptica');
+insert into tecnologiasAcceso(nombre) values('Satelital');
+insert into tecnologiasAcceso(nombre) values('Wireless');
+insert into tecnologiasAcceso(nombre) values('Telefonia fija');
+insert into tecnologiasAcceso(nombre) values('4G');
+insert into tecnologiasAcceso(nombre) values('3G');
+
+-- Relacion de Localidades por Tecnologias de Acceso a Internet
+Drop table localidades_tecnologiaAcceso;
+CREATE TABLE IF NOT EXISTS localidades_tecnologiaAcceso(
+id_localidad			int(11) not null,
+id_tecnologiaacceso 	int(11) not null
+);
+
+
+select l.id_provincia, l.partido, l.localidad 
+from localidades_accesointernet_latylon as l  where l.adsl = 'SI'
+-- 1133 registros
