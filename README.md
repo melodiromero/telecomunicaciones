@@ -1,5 +1,5 @@
 # ENACOM Telecomunicaciones
-La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil, y en casi cualquier lugar del mundo.
+La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación contínua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil y en casi cualquier lugar del mundo.
 
 En comparación con la media mundial, Argentina está a la vanguardia en el desarrollo de las telecomunicaciones, teniendo para el 2020 un total de 62,12 millones de conexiones.
 
@@ -10,22 +10,45 @@ La presente es un proyecto de de análisis exploratorio de datos y visualizació
 
 ## Índice
 1. [Objetivos ](#id1)
-2. [Fuentes de datos](#id2)
-3. [EDA - Análisis Exploratorio de Datos](#id3)
-4. [KPI's](#id4)
-5. [Conlusiones](#id4)
+4. [KPI's](#id2)
+2. [Fuentes de datos](#id3)
+3. [EDA - Análisis Exploratorio de Datos](#id4)
+5. [Conlusiones](#id5)
 
-## 1. Objetivos
+## 1. Objetivo
 
- - Analizar la situación actual del sector de telecomunicaciones en Argentina.
- - Identificar oportunidades de crecimiento.
+ - Analizar la situación actual del sector de telecomunicaciones en Argentina, con el fin de identificar oportunidades de crecimiento y mejora en la calidad del servicio de conectividad a internet.
+
+## 2. KPI's
+Como idicadores claves de desempeño se han establecido los siguientes:
+
+>[!IMPORTANT]
+>
+>Expandir la tecnología de fibra óptica a todas las ciudades capitales de Argentina en un año.
+
+>[!IMPORTANT]
+>
+>Impulsar la demanda de servicio de internet (en cualquier tecnología) en cuidades con potenciales clientes, en el período de un año.
+
+>[!IMPORTANT]
+>
+>Mejorar la velocidad de conexion a internet... (en desarrollo).
 
 ## 2. Fuente de datos
-agregar
-### 2.1. Datasets utilizados
+Se detallan las fuentes de datos obligatorias y complementarias utilizadas.
 
+### 2.1. Datasets utilizados
+Se hacen uso de los siguientes datas:
+
+[Acceso de internet por tecnologías](datasets/Internet_Accesos-por-tecnologia.csv) y 
+[acceso de internet por tecnologia y provincia](datasets/Internet_Accesos-por-tecnologiayporprovincia.csv)
+
+
+[conectividad de internet](datasets/ConectividadalserviciodeInternet.csv) y [listado de localidades con conectividad a internet](datasets/Listadodelocalidadesconconectividadainternet.csv)
 
 ### 2.2. Fuentes adicionales
+[listado de provincias](datasets/provincias.csv)
+Se indagó este dataset en particular para obtener información acerca de la ubicación geográfica de cada provincia, mediante sus datos de latitud y longitud.
 
 ### 2.3. Diccionario de datos: metadatos
 | Nombre del campo | Descripción |
@@ -51,19 +74,15 @@ Se realizó el análisis explotatorio de los datos para cada uno de los datasets
 Para acceder al eda de cada dataset por favor ingresar aquí (agregar referencia).
 
 
-## KPI's
-falta
-
 ## Conclusiones
 falta
 
 ## Referencias
 
-[^1]: El Enacom es un ente autárquico y descentralizado que funciona en el ámbito de la Jefatura de Gabinete de Ministros de la Nación. Su objetivo es conducir el proceso de convergencia tecnológica y crear condiciones estables de mercado para garantizar el acceso de todos los argentinos a los servicios de internet, telefonía fija y móvil, radio, postales y televisión.
+[^1]: El Enacom es un ente autárquico y descentralizado que funciona en el ámbito de la Jefatura de Gabinete de Ministros de la Nación Argentina. Su objetivo es conducir el proceso de convergencia tecnológica y crear condiciones estables de mercado para garantizar el acceso de todos los argentinos a los servicios de internet, telefonía fija y móvil, radio, postales y televisión.Enacom fue creado en Diciembre del 2015 a través del Decreto 267 en el cual se establece su rol como regulador de las comunicaciones con el fin de asegurar que todos los usuarios del país cuenten con servicios de calidad. Fuente: https://enacom.gob.ar/
 
-Enacom fue creado en Diciembre del 2015 a través del Decreto 267 en el cual se establece su rol como regulador de las comunicaciones con el fin de asegurar que todos los usuarios del país cuenten con servicios de calidad.
 
-Fuente: https://enacom.gob.ar/
+
 
 
 
