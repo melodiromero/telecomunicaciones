@@ -96,7 +96,7 @@ Se realizó el análisis explotatorio de los datos para cada uno de los datasets
 
 En base a lo analizado, se concluye que **el servicio de internet más contratado es la modalidad de cable modem** y la minoría se representa por la categoría otros. 
 <p align="center">
-  <img width="800" height="500" src="graficos/evolucion_tecnologias.png">
+  <img width="600" height="350" src="graficos/evolucion_tecnologias.png">
 </p>
 
 <p align="center">
@@ -112,15 +112,15 @@ Se observa que **a lo largo de los años, hubo un mayor crecimiento en la demand
 En cuando a la categoria "otros", según la fuente del ENACOM[^2] y la exploración de la conectividad en el servicio de internet, en esta modalidad pueden incluirse los contratados por acceso telefónico (Dial-Up), acceso por red de telefonía móvil con 3G y 4G, y el acceso por linea eléctrica.
 
 <p align="center">
-  <img width="300" height="300" src="graficos/localidades con y sin servicio de internet.png">
+  <img width="500" height="400" src="graficos/localidades con y sin servicio de internet.png">
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="graficos/localidades potenciales y el cablemodem.png">
+  <img width="500" height="400" src="graficos/localidades potenciales y el cablemodem.png">
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="graficos/localidades potenciales y la fibra optica.png">
+  <img width="500" height="400" src="graficos/localidades potenciales y la fibra optica.png">
 </p>
 
 En atención al objetivo de **Impulsar la demanda de servicio de internet (en cualquier tecnología) en ciudades con potenciales clientes, en el período de un año.** y los KPI's seleccionados, se detallan como métricas, el registro de 4307 localidades, de las cuales, 3765 son clientes y 542 son clientes potenciales. A qué se refiere con potenciales, pues que en estas localidades no hay una demanda en accesos de servicio de internet pero se cuentan con las tecnologías para aprovechar esta  **oportunidad de crecimiento** y **potenciar la demanda del servicio a internet**
