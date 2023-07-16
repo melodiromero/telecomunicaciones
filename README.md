@@ -13,14 +13,16 @@ La presente es un proyecto de de análisis exploratorio de datos y visualizació
 4. [KPI's](#id2)
 2. [Fuentes de datos](#id3)
 3. [EDA - Análisis Exploratorio de Datos](#id4)
-5. [Conlusiones](#id5)
+5. [Informe](#id5)
+6. [Referencias](#id6)
+
 
 ## 1. Objetivo General:
 
- - Analizar la situación actual del sector de telecomunicaciones en Argentina, con el fin de identificar oportunidades de crecimiento y mejora en la calidad del servicio de conectividad a internet.
+Analizar la situación actual del sector de telecomunicaciones en Argentina, con el fin de identificar oportunidades de crecimiento y mejora en la calidad del servicio de conectividad a internet.
 
 ## 1.1. Objetivo Específicos:
- - 
+
 >[!IMPORTANT]
 >
 >Impulsar la demanda de servicio de internet (en cualquier tecnología) en ciudades con potenciales clientes, en el período de un año.
@@ -87,10 +89,10 @@ Se indagó este dataset en particular para obtener información acerca de la ubi
 | created_at |  Fecha de creación de la versión del recurso. |
 | link |  Link a la vista del recurso en el portal. |
 
-## EDA - Análisis Exploratorio de Datos
+## 3. EDA - Análisis Exploratorio de Datos
 Se realizó el análisis explotatorio de los datos para cada uno de los datasets previamente descargados en formato CSV. En cada eda, se analizan los datos, se describen los mismos, detectando outliers sin eliminarlos, se sigue por la descripción de la distribución de sus datos y se ofrecen visualizaciones que contribuyen a la labor de conclusiones que sean útiles para los indicadores de rendimientos y la toma de decisiones oportunas en la cumplimentación del objetivo propuesto-
 
-## Conclusiones
+## 5. Informe
 
 En base a lo analizado, se concluye que **el servicio de internet más contratado es la modalidad de cable modem** y la minoría se representa por la categoría otros. 
 <p align="center">
@@ -120,8 +122,7 @@ Para el cablemodem de las 542 localidades potenciales, 24, el 4% tienen potencia
 
 En base al pase de los años y el crecimiento de estas tecnologías se concluye que es factible la realización de los objetivos propuestos.
 
-## Referencias
-
+## 6. Referencias
 [^1]: El Enacom es un ente autárquico y descentralizado que funciona en el ámbito de la Jefatura de Gabinete de Ministros de la Nación Argentina. Su objetivo es conducir el proceso de convergencia tecnológica y crear condiciones estables de mercado para garantizar el acceso de todos los argentinos a los servicios de internet, telefonía fija y móvil, radio, postales y televisión.Enacom fue creado en Diciembre del 2015 a través del Decreto 267 en el cual se establece su rol como regulador de las comunicaciones con el fin de asegurar que todos los usuarios del país cuenten con servicios de calidad. Fuente: https://enacom.gob.ar/
 
 [^2]: Tipos de acceso a internet https://www.enacom.gob.ar/tipos-de-conexion_p112
