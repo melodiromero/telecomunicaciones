@@ -76,6 +76,9 @@ Se realizó el análisis explotatorio de los datos para cada uno de los datasets
 ## Conclusiones
 
 En base a lo analizado, se concluye que **el servicio de internet más contratado es la modalidad de cable modem** y la minoría se representa por la categoría otros. 
+<p align="center">
+  <img width="460" height="300" src="graficos/evolucion_tecnologias.png)">
+</p>
 
 ![Evolución de las tecnologías en el periodo 2014 - 2022](graficos/evolucion_tecnologias.png)
 
