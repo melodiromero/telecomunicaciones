@@ -445,3 +445,4 @@ ALTER TABLE mapeo_localidades_tecnologias DROP COLUMN id_provincia;
 
 ALTER TABLE mapeo_localidades_tecnologias DROP COLUMN id_partido;
 
+SELECT * FROM mapeo_localidades_tecnologias WHERE poblacion = 0 AND fibraoptica = '--'

@@ -15,24 +15,41 @@ La presente es un proyecto de de análisis exploratorio de datos y visualizació
 3. [EDA - Análisis Exploratorio de Datos](#id4)
 5. [Conlusiones](#id5)
 
-## 1. Objetivo
+## 1. Objetivo General:
 
  - Analizar la situación actual del sector de telecomunicaciones en Argentina, con el fin de identificar oportunidades de crecimiento y mejora en la calidad del servicio de conectividad a internet.
 
-## 2. KPI's
-Como idicadores claves de desempeño se han establecido los siguientes:
-
+## 1.1. Objetivo Específicos:
+ - 
 >[!IMPORTANT]
 >
 >Impulsar la demanda de servicio de internet (en cualquier tecnología) en ciudades con potenciales clientes, en el período de un año.
 
 >[!IMPORTANT]
 >
->Expandir la tecnología de fibra óptica a todas las ciudades capitales de Argentina que aún no lo possen en el término de dos años.
+>Expandir la tecnología de cablemodem a todas las ciudades argentinas que aún no lo possen en el término de un año.
 
 >[!IMPORTANT]
 >
->Mejorar la velocidad de conexion a internet... (en desarrollo).
+>Expandir la tecnología de fibra óptica a todas las ciudades argentinas que carecen de esta tecnología en el periodo de tres años.
+
+## 2. KPI's
+
+Como idicadores claves de desempeño que ayuden a cumplimentar los objetivos propuestos, se han establecido los siguientes:
+
+<ul>
+<li> **Tasa de conversion de localidades actuales**. Tasas de conversión de los clientes que demanda (localidades que registran accesos) sobre el total de clientes interesados (localidades con y sin accesos). </li>
+<li> **Total de accesos actuales ** (o en base al periodo 2022).</li>
+<li> **Porcentaje de accesos con fibra óptica**.</li>
+<li> **Porcentaje de accesos con cablemodem**.</li>
+</ul>
+
+De los ultimos dos, se relacionan los siguientes:
+ - Número de clientes potenciales con acceso a fibra óptica.
+ - Número de clientes potenciales sin acceso a fibra óptica.
+ - Número de clientes potenciales con acceso a cablemodem.
+ - Número de clientes potenciales sin acceso a cablemodem.
+
 
 ## 2. Fuente de datos
 Se detallan las fuentes de datos obligatorias y complementarias utilizadas.
@@ -50,7 +67,7 @@ Con el fin de responder a nuestros KPI's se exploró este dataset, identificando
 
 ### 2.2. Fuentes adicionales
 [listado de provincias](datasets/provincias.csv)
-Se indagó este dataset en particular para obtener información acerca de la ubicación geográfica de cada provincia, mediante sus datos de latitud y longitud.
+Se indagó este dataset en particular para obtener información acerca de la ubicación geográfica de cada provincia, mediante sus datos de latitud y longitud[^3].
 
 ### 2.3. Diccionario de datos: metadatos
 | Nombre del campo | Descripción |
@@ -77,21 +94,31 @@ Se realizó el análisis explotatorio de los datos para cada uno de los datasets
 
 En base a lo analizado, se concluye que **el servicio de internet más contratado es la modalidad de cable modem** y la minoría se representa por la categoría otros. 
 <p align="center">
-  <img width="460" height="300" src="graficos/evolucion_tecnologias.png)">
+  <img width="1024" height="700" src="graficos/evolucion_tecnologias.png">
 </p>
 
-![Evolución de las tecnologías en el periodo 2014 - 2022](graficos/evolucion_tecnologias.png)
+<p align="center">
+  <img width="800" height="400" src="graficos/distribucion_tecnologias_periodo2014_2022.png">
+</p>
 
-![Distribución de las tecnologías en el periodo 2014 - 2022](graficos/distribucion_tecnologias_periodo2014_2022.png)
-
-![Distribución de las tecnologías en el año 2022](graficos/distribucion_tecnologias_anio2022.png)
-
+<p align="center">
+  <img width="800" height="400" src="graficos/distribucion_tecnologias_anio2022.png">
+</p>
 
 Se observa que **a lo largo de los años, hubo un mayor crecimiento en la demanda de tecnología de acceso de internet por cable modem, con un 50% y fibra óptica con 37%**, no asi, en el caso de ADSL, que fue decreciendo. En sus inicios la modalidad que inicio fuertemente fue ADSL con cable modem, pero dado el último año (2022) se registra que la prominente es cabla módem (55%) y le sigue fibra óptica (24%).
 
 En cuando a la categoria "otros", según la fuente del ENACOM[^2] y la exploración de la conectividad en el servicio de internet, en esta modalidad pueden incluirse los contratados por acceso telefónico (Dial-Up), acceso por red de telefonía móvil con 3G y 4G, y el acceso por linea eléctrica.
 
-Se recomienda eliminar los registros de la categoría otros para casos en que quiera aplicarse modelos predictivos, pues tienen muy pocos datos de esa clase y no se tiene la certeza a que tipo de tecnologia de acceso de internet corresponde.
+En atención al objetivo de **Impulsar la demanda de servicio de internet (en cualquier tecnología) en ciudades con potenciales clientes, en el período de un año.** y los KPI's seleccionados, se detallan como métricas, el registro de 4307 localidades, de las cuales, 3765 son clientes y 542 son clientes potenciales. A qué se refiere con potenciales, pues que en estas localidades no hay una demanda en accesos de servicio de internet pero se cuentan con las tecnologías para aprovechar esta  **oportunidad de crecimiento** y **potenciar la demanda del servicio a internet**
+En este documento se detallan las localidades potenciales:
+[listado de localidades potenciales](datasets/conectividadlocalidades_oportunidadExpansion.csv)
+Entonces como tasa de localidades clientes se tiene un 87% en contraste con los clientes potenciales que representan el 13%.
+
+Finalmente para el logro de los objetivos de expandir la tecnología de cablemodem a todas las ciudades argentinas que aún no lo possen en el término de un año y expandir la tecnología de fibra óptica a todas las ciudades argentinas que carecen de esta tecnología en el período de tres años , esta última se ha propuesto en tres años debido al costo que implica esta tecnología, se han hallado los siguientes indicadores:
+
+Para el cablemodem de las 542 localidades potenciales, 24, el 4% tienen potencial acceso por cablemodem y 518, el 96% no poseen acceso. Y para la fibra optica, de las 542 localidades potenciales, 76, el 14% tienen acceso a fibra óptica y 466, el 86% no poseen acceso.
+
+En base al pase de los años y el crecimiento de estas tecnologías se concluye que es factible la realización de los objetivos propuestos.
 
 ## Referencias
 
@@ -99,12 +126,4 @@ Se recomienda eliminar los registros de la categoría otros para casos en que qu
 
 [^2]: Tipos de acceso a internet https://www.enacom.gob.ar/tipos-de-conexion_p112
 
-
-
-
-
-
-
-Notas para tener en cuenta mñas adelante: no se eliminan los outliers porque no hay procesos sobre los datos, analisis o visualizacion de datos que lo requeira.
-https://datos.gob.ar/dataset/jgm-servicio-normalizacion-datos-geograficos/archivo/jgm_8.26
-se obtuvo datas adicionales
+[^3]: Lista de las entidades que representan la división político territorial de primer orden de la República Argentina en base a datos del Instituto Geográfico Nacional y del Instituto Nacional de Estadística y Censos. Incluye las 23 provincias y la Ciudad Autónoma de Buenos Aires (CABA) en formato SHP. Fuente: https://datos.gob.ar/dataset/jgm-servicio-normalizacion-datos-geograficos/archivo/jgm_8.26

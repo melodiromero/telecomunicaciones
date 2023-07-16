@@ -1,0 +1,543 @@
+Provincia;Partido;Localidad;Poblacion;ADSL;CABLEMODEM;DIALUP;FIBRAOPTICA;SATELITAL;WIRELESS;TELEFONIAFIJA;3G;4G;link;Latitud;Longitud
+BUENOS AIRES;Bahía Blanca;Villa Bordeau;0;--;--;--;--;--;--;--;SI;SI;6056020.0;-38,6472605094596;-62,3200223419024
+BUENOS AIRES;Bahía Blanca;Villa Espora;0;--;--;--;--;--;--;--;--;--;6056020.0;-38,7765069529222;-62,1851833537179
+BUENOS AIRES;General Las Heras;Lozano;0;--;--;--;--;SI;--;--;--;--;6329020.0;-34,8542796259808;-59,0533451317779
+BUENOS AIRES;General Lavalle;Chacras de San Clemente;0;--;--;--;--;--;SI;--;--;--;6336020.0;-36,4080851872455;-56,9433553335054
+BUENOS AIRES;Tandil;Desvío Aguirre;0;--;--;--;SI;--;SI;--;SI;SI;6791050.0;-37,.35;-59,
+BUENOS AIRES;Berisso;Los Talas;0;--;--;--;--;--;--;--;--;--;6098010.0;-34,9190209219847;-57,7909954962894
+BUENOS AIRES;Berisso;Villa Arguello;0;--;--;--;SI;--;SI;--;SI;SI;6098010.0;-34,9053981881099;-57,9180815078165
+BUENOS AIRES;Berisso;Villa Dolores;0;--;--;--;--;--;--;--;SI;SI;6098010.0;-34,8802085383888;-57,8663036732616
+BUENOS AIRES;Berisso;Villa Independencia;0;--;--;--;--;--;--;--;--;--;6098010.0;-34,8829519743895;-57,8614892695719
+BUENOS AIRES;Berisso;Villa Nueva;0;--;--;--;SI;--;SI;--;SI;SI;6098010.0;-34,8957079362353;-57,9108816644737
+BUENOS AIRES;Berisso;Villa Porteña;0;--;--;--;--;--;--;--;--;--;6098010.0;-34,891043310448;-57,8963773978494
+BUENOS AIRES;Berisso;Villa Progreso;0;--;--;--;SI;--;SI;--;--;--;6098010.0;-34,9308766123633;-57,8468799885622
+BUENOS AIRES;Berisso;Villa San Carlos;0;--;--;--;--;--;--;--;SI;SI;6098010.0;-34,8838130805;-57,87701595642
+BUENOS AIRES;Berisso;Villa Zula;0;--;--;--;--;--;--;--;--;--;6098010.0;-34,9221646298322;-57,8009664840662
+BUENOS AIRES;Bolívar;Mariano Unzué;0;--;--;--;--;--;--;--;--;--;6105060.0;-36,1440485245343;-61,0116010100704
+BUENOS AIRES;General Pueyrredón;Estacion Camet;0;--;--;--;--;--;--;--;SI;SI;6357090.0;-37,888665236683;-57,6000121501773
+BUENOS AIRES;General Pueyrredón;Punta Mogotes;0;--;--;--;--;--;--;--;SI;SI;6351020.0;-38,0833774287933;-57,5859350936487
+BUENOS AIRES;General Rodríguez;Barrio Ruta 24 Kilómetro 10;0;--;--;--;SI;--;--;--;SI;SI;6364030.0;-34,6882159472973;-58,9574297137089
+BUENOS AIRES;General Rodríguez;Country Club Bosque Real - Barrio Morabo;0;--;--;--;--;--;--;--;SI;SI;6364030.0;-34,555;-58,935
+CHUBUT;Escalante;Km. 11 - Cuarteles;0;--;--;--;--;--;--;--;--;--;26021020.0;-45,7707679612545;-67,4358046744231
+CHUBUT;Escalante;KM. 3 - General Mosconi;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,8318281251079;-67,4917096424434
+CHUBUT;Escalante;KM. 5 - Presidente Ortiz;0;--;--;--;--;--;--;--;--;--;26021020.0;-45,7875522789201;-67,4695736235974
+CHUBUT;Escalante;KM. 8 - Don Bosco;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,7988982385959;-67,4314970230436
+BUENOS AIRES;Mar Chiquita;La Baliza;0;--;--;--;--;--;--;--;SI;SI;6518020.0;-37,7697388275396;-57,450820092514
+BUENOS AIRES;Mar Chiquita;La Caleta;0;--;--;--;--;--;SI;--;--;--;6518020.0;-37,7834384978567;-57,4647863685704
+BUENOS AIRES;Mar Chiquita;Playa Dorada;0;--;--;--;--;--;SI;--;SI;SI;6518020.0;-37,8730952780707;-57,5218898754931
+BUENOS AIRES;Mar Chiquita;Santa Elena;0;--;--;--;--;--;--;--;--;--;6518020.0;-37,8649003626945;-57,5169016362882
+BUENOS AIRES;Berisso;Barrio Banco Provincia;0;--;--;--;--;--;--;--;--;SI;6098010.0;-34,8752589900973;-57,8550856662877
+BUENOS AIRES;Berisso;Barrio El Carmen (Este);0;--;--;--;SI;--;SI;--;SI;SI;6098010.0;-34,9293102150655;-57,8853552505795
+BUENOS AIRES;Berisso;Barrio Universitario;0;--;--;--;--;--;--;--;SI;SI;6098010.0;-34,9027528834433;-57,9270884333304
+ENTRE RIOS;Colón;El Colorado;0;--;--;--;--;SI;--;--;SI;SI;30008100.0;-32,1819017485871;-58,1918561863469
+BUENOS AIRES;General Pueyrredón;Barrio Colinas Verdes;0;--;--;--;--;--;SI;--;SI;SI;6351020.0;-37,8931024789245;-57,8261645643114
+BUENOS AIRES;General Pueyrredón;Barrio El Casal;0;--;--;--;--;--;SI;--;--;--;6357110.0;-37,8324145231571;-57,6311155465986
+BUENOS AIRES;General Pueyrredón;Barrio El Coyunco;0;--;--;--;SI;--;SI;--;SI;SI;6357110.0;-37,9050810135269;-57,7391824086455
+BUENOS AIRES;General Pueyrredón;Camet;0;SI;--;--;SI;--;SI;SI;SI;SI;6357090.0;-37,9130763908367;-57,552463851894
+BUENOS AIRES;Mar Chiquita;Atlantida;0;--;--;--;--;--;--;--;SI;SI;6518020.0;-37,8505519250944;-57,5134595632837
+BUENOS AIRES;Mar Chiquita;Camet Norte;0;--;--;--;--;--;--;--;SI;SI;6518020.0;-37,8224325083139;-57,4974692762018
+BUENOS AIRES;Mar Chiquita;Frente Mar;0;--;--;--;--;--;--;--;SI;SI;6518020.0;-37,857770246553;-57,5154242437478
+BUENOS AIRES;San Nicolás;Campos Salles;0;--;--;--;--;--;--;--;--;--;6763010.0;-33,4010837029564;-60,2846972878391
+BUENOS AIRES;San Nicolás;Villa Campi;0;--;--;--;--;--;--;--;SI;--;6763010.0;-33,3599587304228;-60,3000892882903
+BUENOS AIRES;San Nicolás;Villa Canto;0;--;--;--;--;--;--;--;SI;SI;6763010.0;-33,3708479748;-60,2954116362263
+BUENOS AIRES;San Nicolás;Villa Riccio;0;--;--;--;--;--;--;--;--;--;6763010.0;-33,3630498059477;-60,2953990898749
+BUENOS AIRES;San Vicente;Domselaar;0;--;SI;--;--;--;SI;SI;SI;SI;6778020.0;-35,048692550243;-58,3145745868708
+ENTRE RIOS;Paraná;Pueblo Moreno;0;--;--;--;--;--;--;--;--;--;30084070.0;-31,5884913847857;-60,0648929343735
+BUENOS AIRES;Mercedes;Tomás Jofré;0;--;--;--;--;--;--;--;--;--;6532020.0;-34,698955554941;-59,3194428313109
+BUENOS AIRES;Tigre;Nordelta;0;--;SI;--;SI;--;--;SI;SI;SI;6805010.0;-34,4065916;-58,6712671
+BUENOS AIRES;Tordillo;Villa Roch;0;--;--;--;--;--;SI;--;SI;SI;6812010.0;-36,4735206430311;-57,3384090004103
+CORDOBA;Tulumba;Cerro Colorado;0;--;--;--;--;--;--;--;--;--;14175060.0;-30,096944;-63,931111
+ENTRE RIOS;Diamante;Costa Grande;0;--;--;--;--;--;--;--;--;--;30021127.0;-32,1382752741;-60,4330334152
+ENTRE RIOS;Diamante;Estacion Puiggari;0;--;--;--;--;--;--;--;--;--;30021140.0;-32,0602299925107;-60,4435729044204
+FORMOSA;Formosa;Villa Trinidad;0;--;--;--;--;--;--;--;--;--;34014030.0;-26,1828223055764;-58,1733930549121
+MENDOZA;Godoy Cruz;Gobernador Benegas;0;--;--;--;SI;--;--;--;SI;SI;50021010.0;-32,9443750737376;-68,8651880637399
+MENDOZA;Godoy Cruz;LAS TORTUGAS;0;--;--;--;SI;--;--;--;SI;SI;50021010.0;-32,9453107154249;-68,8411734730396
+MENDOZA;Godoy Cruz;Presidente Sarmiento;0;--;--;--;--;--;--;--;--;--;50021010.0;-32,9171352448748;-68,9190971058586
+MENDOZA;Godoy Cruz;SAN FRANCISCO DEL MONTE;0;--;--;--;SI;--;--;--;SI;SI;50021010.0;-32,9301248190877;-68,8333388830804
+MENDOZA;Godoy Cruz;Villa Hipodromo;0;--;--;--;SI;--;--;--;SI;SI;50021010.0;-32,9085519196216;-68,8709990197701
+MENDOZA;Godoy Cruz;Villa Marini;0;--;--;--;--;--;--;--;SI;SI;50021010.0;-32,9368994348648;-68,8625261619583
+MENDOZA;Rivadavia;Cuadro Ortega;0;--;--;--;--;--;--;--;SI;--;50084110.0;-33,282949271283;-68,4657441362603
+RIO NEGRO;Bariloche;Villa Campanario;0;--;--;--;--;--;--;--;SI;SI;62021030.0;-41,0649702714092;-71,4726736795373
+RIO NEGRO;Bariloche;Villa Llao Llao;0;SI;--;--;--;--;--;SI;SI;SI;62021030.0;-41,0697604387258;-71,5396513534561
+SAN JUAN;Rawson;Villa Krause;0;--;--;--;--;--;SI;--;SI;SI;70077020.0;-31,583718555606;-68,5410817167198
+SAN JUAN;Santa Lucía;Alto De Sierra;0;--;--;--;--;--;SI;--;SI;SI;70098010.0;-31,5265278957606;-68,4106014181706
+SAN JUAN;Santa Lucía;Colonia Gutierrez;0;--;--;--;--;--;--;--;SI;SI;70098010.0;-31,5173968715659;-68,4546487927052
+SAN LUIS;Junín;Bajo De Veliz;0;--;--;--;--;--;--;--;--;--;74049020.0;-32,31398017;-65,41102538
+SAN LUIS;Junín;Balde De Escudero;0;--;--;--;--;--;--;--;--;--;74049050.0;-32,09212653;-65,56649133
+SAN LUIS;Junín;Cerrito Blanco;0;--;--;--;--;--;--;--;--;--;74049080.0;-32,2359503198865;-65,2293786067878
+SAN LUIS;Junín;El Duraznito;0;--;--;--;--;--;--;--;--;--;74049040.0;-32,31004;-65,27742028
+SAN LUIS;Junín;La Chilca;0;--;--;--;--;--;--;--;--;--;74049040.0;-32,41118937;-65,30673087
+SAN LUIS;Junín;La Lomita;0;--;--;--;--;--;--;--;--;--;74049050.0;-32,0611870301487;-65,2978339370276
+SAN LUIS;Junín;Las Palomas;0;--;--;--;--;--;--;--;--;--;74049050.0;-32,06323545;-65,4731808
+SAN LUIS;Junín;Los Lobos;0;--;--;--;--;--;--;--;--;--;74049040.0;-32,46252534;-65,26989048
+SAN LUIS;Junín;Ojo Del Rio;0;--;--;--;--;--;--;--;--;--;74049040.0;-32,43187893;-65,20010896
+SAN LUIS;Junín;Santa Ana;0;--;--;--;--;--;--;--;--;--;74049050.0;-32,0392215406428;-65,3934632838914
+TUCUMAN;Cruz Alta;Barrio Aeropuerto;0;--;--;--;--;--;--;--;SI;SI;90014090.0;-26,8489;-65,1311
+TUCUMAN;Cruz Alta;El Corte;0;--;--;--;--;--;--;--;--;SI;90014090.0;-26,8184460052552;-65,1556778939315
+TUCUMAN;Cruz Alta;El Paraiso;0;--;--;--;--;--;--;--;SI;SI;90014090.0;-26,8346473974393;-65,0955588658241
+TUCUMAN;Cruz Alta;Ex Ingenio Esperanza;0;--;--;--;--;--;--;--;SI;SI;90014090.0;-26,8440192084768;-65,0924758564779
+TUCUMAN;Cruz Alta;Ex Ingenio Los Ralos;0;--;--;--;--;--;--;--;--;--;90014070.0;-26,8770998455409;-64,9748987513019
+TUCUMAN;Cruz Alta;Ex Ingenio Lujan;0;--;--;--;--;--;--;--;--;--;90014090.0;-26,8541670602329;-65,0915199952372
+TUCUMAN;Cruz Alta;Ingenio La Florida;0;--;--;--;--;--;--;--;SI;SI;90014090.0;-26,8167179154155;-65,0802671019889
+TUCUMAN;Cruz Alta;Lastenia;0;--;--;--;--;--;--;--;SI;SI;90014090.0;-26,8621611908602;-65,1625825810305
+TUCUMAN;Cruz Alta;Los Gutierrez;0;--;--;--;--;--;--;--;SI;SI;90014090.0;-26,80204642135;-65,1258766860824
+TUCUMAN;Cruz Alta;Villa Recaste;0;--;--;--;--;--;--;--;SI;SI;90014090.0;-26,8868084047256;-65,0074356034814
+TUCUMAN;Cruz Alta;Villa Tercera;0;--;--;--;--;--;--;--;--;--;90014090.0;-26,8914692726412;-65,0131822116958
+TUCUMAN;Famaillá;Ex Ingenio Nueva Baviera;0;--;--;--;--;--;--;--;SI;SI;90028020.0;-27,0697371751242;-65,3999011552298
+TUCUMAN;Lules;Barrio Araujo;0;--;--;--;--;--;--;--;SI;SI;90063040.0;-26,8418175731977;-65,2753559359172
+TUCUMAN;Río Chico;Ingenio Santa Barbara;0;--;--;--;--;--;--;--;SI;SI;90077020.0;-27,4557975105898;-65,6064955796251
+TUCUMAN;Yerba Buena;Cevil Redondo;0;--;--;--;--;--;--;--;SI;SI;90119030.0;-26,7789639578912;-65,2853208416875
+TUCUMAN;Yerba Buena;Country Jockey Club;0;--;--;--;--;--;--;--;--;--;90119010.0;-26,7629680018015;-65,3079476709365
+TUCUMAN;Yerba Buena;EX INGENIO SAN JOSE;0;--;--;--;--;--;--;--;SI;SI;90119030.0;-26,7992050305522;-65,2646764135868
+TUCUMAN;Yerba Buena;Villa San Javier;0;--;--;--;--;--;--;--;SI;SI;90119010.0;-26,7825946807861;-65,3595657348633
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Base Belgrano Ii;0;--;--;--;--;--;--;--;--;--;;-77,8740088546501;-34,6265601051448
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Base Brown;0;--;--;--;--;--;--;--;--;--;;-64,8953481540258;-62,8705378154324
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Base Carlini;0;--;--;--;--;--;--;--;--;--;;-62,2383693073102;-58,6675435788796
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Base Esperanza;0;--;--;--;--;--;--;--;--;SI;;-63,3973928907224;-56,997322458775
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Base Marambio;0;--;--;--;--;--;--;--;SI;SI;;-64,2406140561753;-56,6250959571072
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Base Matienzo;0;--;--;--;--;--;--;--;--;--;;-64,9758620236943;-60,0706791228407
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Base Orcadas;0;--;--;--;--;--;--;--;--;--;;-60,737817304161;-44,7376600159669
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Base San Martin;0;--;--;--;--;--;--;--;--;--;;-68,1300703213167;-67,101329501464
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Destacamento Camara;0;--;--;--;--;--;--;--;--;--;;-62,5943496603855;-59,9190536260268
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Destacamento Decepcion;0;--;--;--;--;--;--;--;--;--;;-62,9753323251602;-60,6982227022535
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Destacamento Melchior;0;--;--;--;--;--;--;--;--;--;;-64,3256059503534;-62,9763657702779
+TIERRA DEL FUEGO;ANTARTIDA ARGENTINA;Destacamento Petrel;0;--;--;--;--;--;--;--;--;--;;-63,4779032552796;-56,2281462316807
+SANTA FE;La Capital;RINCON NORTE;0;--;--;--;--;--;--;--;--;--;82063070.0;-31,5644326802115;-60,414954582383
+SANTA FE;La Capital;Villa Adelina;0;--;--;--;--;--;--;--;SI;SI;82063070.0;-31,7077603088951;-60,7883380397856
+SAN LUIS;La Capital;Los Algarrobos Blancos;0;--;--;--;--;--;--;--;SI;SI;74056070.0;-33,3374661935332;-66,3624600489592
+SAN LUIS;La Capital;Pozo Del Carril;0;--;--;--;--;--;--;--;--;--;74056110.0;-33,2004979408856;-66,3528238194471
+SAN LUIS;La Capital;San Roque;0;--;--;--;--;--;--;--;SI;SI;74056070.0;-33,2720248979515;-66,2276619762377
+SAN LUIS;La Capital;Santa Rosa;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,6369138718007;-66,4190419424644
+SAN LUIS;La Capital;Varela;0;--;--;--;--;--;SI;--;--;--;74056140.0;-34,12261759;-66,46370684
+SAN LUIS;Libertador Grl. San Martín;Barranca Alta;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,3300123695206;-65,6358594482736
+SAN LUIS;Libertador Grl. San Martín;Cabeza De Novillo;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,38119255;-65,38616592
+SAN LUIS;Libertador Grl. San Martín;Casa De Los Tigres;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,32432436;-65,55541004
+SAN LUIS;Libertador Grl. San Martín;El Estanquito;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,512546681399;-65,768145317185
+SAN LUIS;Libertador Grl. San Martín;El Paraguay;0;--;--;--;--;--;--;--;--;--;74063020.0;-32,7635126293313;-65,6587252495687
+SAN LUIS;Libertador Grl. San Martín;El Paraiso;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,57970728;-65,68763951
+SAN LUIS;Libertador Grl. San Martín;El Puesto;0;--;--;--;--;--;SI;--;--;--;74063050.0;-32,34642911;-65,46720015
+SAN LUIS;Libertador Grl. San Martín;La Cocha;0;--;--;--;--;--;--;--;--;--;74063010.0;-32,62628611;-65,4195124
+SAN LUIS;Libertador Grl. San Martín;La Ramada;0;--;--;--;--;--;SI;--;--;--;74063020.0;-32,69361676;-65,57906863
+SAN LUIS;Libertador Grl. San Martín;La Totora;0;--;--;--;--;--;--;--;--;--;74063020.0;-32,68103703;-65,81152823
+SAN LUIS;Libertador Grl. San Martín;Planta De Sandia;0;--;--;--;--;--;--;--;--;--;74063020.0;-32,76799349;-65,54885162
+SAN LUIS;Libertador Grl. San Martín;Puerta Colorada;0;--;--;--;--;--;--;--;--;--;74063010.0;-32,53456755;-65,39953581
+SAN LUIS;Libertador Grl. San Martín;Rincon Del Carmen;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,4615843296251;-65,4800247653516
+SAN LUIS;Libertador Grl. San Martín;San Fernando;0;--;--;--;--;--;--;--;--;--;74063020.0;-32,71332748;-65,6864429
+SAN LUIS;Libertador Grl. San Martín;San Isidro;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,5346535061633;-65,5271625081663
+SAN LUIS;Libertador Grl. San Martín;San Vicente;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,30836924;-65,69101867
+SAN LUIS;Libertador Grl. San Martín;Tala Verde;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,40896557;-65,56209159
+SANTA FE;9 de Julio;Campo Garay;0;--;--;--;--;--;--;--;--;--;82077020.0;-29,6911529704255;-61,6024410919082
+SANTA FE;9 de Julio;Independencia;0;--;--;--;--;--;--;--;--;--;82077020.0;-29,3710772;-61,755619
+SANTA FE;Castellanos;Estacion Presidente Roca;0;--;--;--;--;--;--;--;--;--;82021420.0;-31,2319180453244;-61,6101076012158
+SAN JUAN;Pocito;La Rinconada;0;--;--;--;--;--;--;--;SI;SI;70070010.0;-31,6952378674877;-68,5923025771378
+SAN JUAN;Pocito;Villa Aberastain;0;--;--;--;--;--;SI;--;SI;SI;70070010.0;-31,65701277213;-68,573608949336
+SAN JUAN;Pocito;Villa Barboza;0;--;--;--;--;--;--;--;SI;SI;70070010.0;-31,5921799746836;-68,5723924425069
+SAN JUAN;Pocito;Villa Nacusi;0;--;--;--;--;--;--;--;--;--;70070010.0;-31,6219383886537;-68,5359580395485
+SAN JUAN;Rawson;El Medanito;0;--;--;--;--;--;SI;--;SI;--;70077010.0;-31,583482529045;-68,4697872532749
+SALTA;Metán;El Tunal;0;--;--;--;SI;SI;--;--;--;SI;66112020.0;-25,2652645771513;-64,4061042227155
+SALTA;Orán;La Misión;0;--;--;--;--;--;--;--;--;--;66126010.0;-23,3154629033465;-64,4077092056574
+SAN LUIS;Ayacucho;Balde De Los Torres;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,0273284154145;-66,1023162055029
+SAN LUIS;Ayacucho;Balde Del Carmen;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,27812976;-66,16172942
+SAN LUIS;Ayacucho;Balde Retamo;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,1071837607464;-65,9591283364498
+SAN LUIS;Ayacucho;Baldecito De La Pampa;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,34825343;-66,20247477
+SAN LUIS;Ayacucho;Carpinteria;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,55476157;-66,09236842
+SAN LUIS;Ayacucho;El Calden;0;--;--;--;--;--;--;--;--;--;74007070.0;-31,9013529041554;-65,8545481796961
+SAN LUIS;Ayacucho;El Injerto;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,22815945;-65,69191327
+SAN LUIS;Ayacucho;El Rincon;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,6556521;-66,20161387
+SAN LUIS;Ayacucho;El Vinagrillo;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,4018573;-66,02362281
+SAN LUIS;Ayacucho;El Zapallar;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,28351144;-65,80227972
+SAN LUIS;Ayacucho;La Aguada;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,28028097;-65,83553852
+SAN LUIS;Ayacucho;La Avenencia;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,24501781;-66,41237917
+SAN LUIS;Ayacucho;La Botija;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,23779512;-66,57895642
+SAN LUIS;Ayacucho;La Brea;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,218073280756;-65,8748842663651
+SAN LUIS;Ayacucho;La Majada;0;--;--;--;--;--;SI;--;--;--;74007010.0;-32,5298829031211;-66,0429032510053
+SAN LUIS;Ayacucho;La Represita;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,1611532404767;-65,6840749663906
+SAN LUIS;Ayacucho;La Salvadora;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,28620178;-66,732734
+SAN LUIS;Ayacucho;Las Chacras;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,63547762;-66,14025792
+SAN LUIS;Ayacucho;Las Chimbas;0;--;--;--;--;--;--;--;--;--;74007050.0;-32,1565177184576;-66,5511142613289
+SAN LUIS;Ayacucho;Las Lagunitas;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,02753784;-66,24032971
+SAN LUIS;Ayacucho;Lomas Blancas;0;--;--;--;--;--;SI;--;--;--;74007010.0;-32,3338629051211;-66,4716765323555
+SAN LUIS;Ayacucho;Los Quemados;0;--;--;--;--;--;--;--;--;--;74007070.0;-31,8916077583343;-65,731320177862
+SAN LUIS;Ayacucho;Pampa Grande;0;--;--;--;SI;--;--;--;--;--;74007010.0;-32,3724224723278;-66,3077548668586
+SAN LUIS;Ayacucho;Pozo Del Molle;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,53991654;-66,1496998
+SAN LUIS;Ayacucho;Río Juan Gómez;0;--;--;--;--;--;SI;--;--;--;74007010.0;-32,603889;-66,086944
+SAN LUIS;Ayacucho;Rodeo De Cadenas;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,7015629614775;-66,1900873349156
+SAN LUIS;Chacabuco;Balcarce;0;--;--;--;--;--;--;--;--;--;74028030.0;-32,5633976217563;-65,0315307446834
+SAN LUIS;Chacabuco;Colonia Zubelzu;0;--;--;--;--;--;--;--;--;--;74028020.0;-33,01855146;-65,13148933
+SAN LUIS;Chacabuco;El Algarrobal;0;--;--;--;SI;--;--;--;--;--;74028020.0;-32,7114393924943;-65,4671947070394
+SAN LUIS;Chacabuco;El Churrasco;0;--;--;--;--;--;--;--;--;--;74028080.0;-32,60479851;-65,18870622
+SAN LUIS;Chacabuco;El Recuerdo;0;--;--;--;--;--;--;--;--;--;74028030.0;-32,7089534025051;-65,0012860131932
+SAN LUIS;Chacabuco;El Sauce;0;--;--;--;--;--;--;--;--;--;74028080.0;-32,52248319;-65,23578125
+SAN LUIS;Chacabuco;El Sifon;0;--;--;--;--;--;--;--;--;--;74028080.0;-32,5851934079751;-65,2377611303891
+SAN LUIS;Chacabuco;El Tala;0;--;--;--;--;--;--;--;--;--;74028020.0;-32,93460754;-65,15713108
+SAN LUIS;Chacabuco;La Celestina;0;--;--;--;--;--;--;--;--;--;74028020.0;-32,84352609;-65,21504978
+SAN LUIS;Chacabuco;Las Rosas;0;--;--;--;--;--;--;--;--;--;74028030.0;-32,602006;-65,05370603
+SAN LUIS;Chacabuco;Pozo Cavado;0;--;--;--;--;--;--;--;--;--;74028030.0;-32,5788404639064;-65,161517865176
+SAN LUIS;Chacabuco;Punta De La Loma;0;--;--;--;--;--;--;--;--;--;74028030.0;-32,6849107237951;-65,0788264408136
+SAN LUIS;Chacabuco;San Felipe;0;--;--;--;--;--;--;--;--;--;74028020.0;-32,80964342;-65,46121169
+SAN LUIS;Chacabuco;San Miguel;0;--;--;--;--;--;--;--;--;--;74028020.0;-32,8898231742815;-65,042421189722
+SAN LUIS;Chacabuco;Santa Martina;0;--;--;--;--;--;--;--;--;--;74028030.0;-32,51637957;-65,12347967
+SAN LUIS;Ayacucho;San Ignacio;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,0866257032099;-66,0888231134367
+SAN LUIS;Ayacucho;San Miguel;0;--;--;--;--;SI;--;--;--;--;74007070.0;-32,14116477;-65,81342262
+SAN LUIS;Ayacucho;San Roque;0;--;--;--;--;--;--;--;--;--;74007050.0;-32,15448797;-66,96257853
+SAN LUIS;Ayacucho;Santa Ana;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,1448782188562;-66,0460393687647
+SAN LUIS;Ayacucho;Santa Rosa De Catantal;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,33294095;-66,91334013
+SAN LUIS;Ayacucho;Santa Teresa;0;--;--;--;--;--;--;--;--;--;74007070.0;-32,20206139;-66,26698743
+SAN LUIS;Ayacucho;Santo Domingo;0;--;--;--;--;--;--;--;--;--;74007070.0;-31,8973633310749;-65,6491557457839
+SAN LUIS;Ayacucho;Talita;0;--;--;--;--;--;--;--;--;--;74007010.0;-32,3496514640192;-66,7266327912252
+SAN LUIS;Belgrano;Arbol Solo;0;--;--;--;--;--;--;--;--;--;74014030.0;-32,52213375;-66,48595015
+SAN LUIS;Belgrano;Bella Estancia;0;--;--;--;--;--;--;--;--;--;74014030.0;-32,8188624645794;-66,6427145357585
+SAN LUIS;Belgrano;Buen Orden;0;--;--;--;--;--;--;--;--;--;74014030.0;-32,59798771;-66,71267133
+SAN LUIS;Belgrano;El Barrial;0;--;--;--;--;--;--;--;--;--;74014010.0;-32,8288468409196;-66,3734349744985
+SAN LUIS;Belgrano;El Milagro;0;--;--;--;--;--;--;--;--;--;74014010.0;-33,10055908;-66,36174359
+SAN LUIS;Belgrano;El Recodo;0;--;--;--;--;--;--;--;--;--;74014010.0;-32,9827253369368;-66,4680980568412
+SAN LUIS;Belgrano;Estancia De Amieva;0;--;--;--;--;--;--;--;--;--;74014010.0;-32,6952146;-66,26680538
+SAN LUIS;Belgrano;Hualtaran;0;--;--;--;--;--;--;--;--;--;74014030.0;-32,46760813;-66,96050979
+SAN LUIS;Belgrano;Las Lagunitas;0;--;--;--;--;--;--;--;--;--;74014030.0;-32,9957785714348;-67,0904154332342
+SAN LUIS;Belgrano;Los Molles;0;--;--;--;--;--;SI;--;--;--;74014010.0;-33,10962076;-66,28134706
+SAN LUIS;Belgrano;Los Ramblones;0;--;--;--;--;--;--;--;--;--;74014030.0;-32,5115721012844;-66,4266138930999
+SAN LUIS;Belgrano;Naranjo Esquino;0;--;--;--;--;--;--;--;--;--;74014040.0;-33,02126301;-66,85216648
+SAN LUIS;Belgrano;Pozo Cavado;0;--;--;--;--;--;--;--;--;--;74014010.0;-32,55034841;-66,23912573
+SAN LUIS;Belgrano;Pozo Del Tala;0;--;--;--;--;--;--;--;--;--;74014010.0;-32,60300671;-66,29297728
+SAN LUIS;Belgrano;Represa Del Carmen;0;--;--;--;--;--;--;--;--;--;74014040.0;-33,061384065842;-66,9794665073681
+SAN LUIS;Belgrano;San Antonio;0;--;--;--;--;--;--;--;--;--;74014030.0;-32,64699837;-66,89703137
+SAN LUIS;Belgrano;San Pedro;0;--;--;--;--;--;SI;--;--;--;74014040.0;-32,9709634117604;-66,6970240054288
+SAN LUIS;Belgrano;Santa Rosa Del Gigante;0;--;--;--;--;--;--;--;--;--;74014040.0;-32,9905965705411;-66,8140366443439
+SAN LUIS;Belgrano;Suyuque Nuevo;0;--;--;--;--;--;--;--;--;--;74014010.0;-33,1293440341281;-66,2867981527892
+SAN LUIS;Belgrano;Toro Negro;0;--;--;--;--;--;--;--;--;--;74014010.0;-32,729764247677;-66,3363734621401
+SAN LUIS;Coronel Pringles;Balde De La Isla;0;--;--;--;--;--;--;--;--;--;74021030.0;-33,1207484881024;-65,9668439489068
+SAN LUIS;Coronel Pringles;Cerros Largos;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,78265068;-65,95597155
+SAN LUIS;Coronel Pringles;Cienaga De Intihuasi;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,92912318;-65,94001107
+SAN LUIS;Coronel Pringles;El Arenal;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,7000331013064;-66,0130171058256
+SAN LUIS;Coronel Pringles;El Baldecito;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,8833401170964;-65,8658654920024
+SAN LUIS;Coronel Pringles;El Durazno;0;--;--;--;--;--;SI;--;SI;--;74021060.0;-33,1933000679405;-66,1568981530519
+SAN LUIS;Coronel Pringles;Eleodoro Lobos;0;--;--;--;--;--;--;--;SI;SI;74021010.0;-33,39105095;-66,01520981
+SAN LUIS;Coronel Pringles;Intihuasi;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,8258700904104;-65,9697369177069
+SAN LUIS;Coronel Pringles;La Petra;0;--;--;--;--;--;--;--;--;--;74021010.0;-33,2506814309201;-65,9968368448597
+SAN LUIS;Coronel Pringles;La Totora;0;--;--;--;--;--;--;--;SI;SI;74021010.0;-33,1502423833397;-65,7245723822157
+SAN LUIS;Coronel Pringles;Las Barranquitas;0;--;--;--;--;--;--;--;SI;--;74021030.0;-33,16844847;-66,06146551
+SAN LUIS;Coronel Pringles;Las Pircas;0;--;--;--;--;--;--;--;--;--;74021030.0;-33,0768050699044;-66,1099086074017
+SAN LUIS;Coronel Pringles;Loma Alta;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,9616958338113;-65,9538726828963
+SAN LUIS;Coronel Pringles;Marmol Verde;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,944380406095;-65,8792040325979
+SAN LUIS;Coronel Pringles;Pampa Del Tamboreo;0;--;--;--;--;--;--;--;--;--;74021030.0;-33,0601810256268;-65,9849396635213
+SAN LUIS;Coronel Pringles;Paso Del Rey;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,944943420996;-66,0040313669643
+SAN LUIS;Coronel Pringles;Valle De Pancanta;0;--;--;--;--;--;--;--;--;--;74021030.0;-32,89747705;-66,11113332
+SAN LUIS;General Pedernera;5Ta Brigada;0;--;--;--;--;--;--;--;--;--;74035055.0;-33,7239942428561;-65,3810379035533
+SAN LUIS;General Pedernera;Caldenadas;0;--;--;--;--;--;--;--;--;--;74035040.0;-33,7828408;-65,72200942
+SAN LUIS;General Pedernera;Colonia Don Antonio;0;--;--;--;--;--;--;--;--;--;74035055.0;-33,3245101084583;-65,2023655210938
+SAN LUIS;General Pedernera;Coronel Alzogaray;0;--;--;--;--;--;--;--;--;--;74035055.0;-33,4478977099803;-65,5540435925998
+SAN LUIS;General Pedernera;Country Club Los Caldenes;0;--;--;--;--;--;--;--;--;--;74035055.0;-33,7036125779234;-65,3290340917624
+SAN LUIS;General Pedernera;Dique Vulpiani;0;--;--;--;--;--;--;--;SI;SI;74035055.0;-33,6615469909619;-65,5357268932931
+SAN LUIS;General Pedernera;La Angelina;0;--;--;--;--;--;SI;--;--;--;74035040.0;-34,36107586;-65,32806491
+SAN LUIS;General Pedernera;La Esquina;0;--;--;--;--;--;--;--;SI;SI;74035055.0;-33,1414847646299;-65,3746164457243
+SAN LUIS;General Pedernera;La Ribera;0;--;--;--;--;--;--;--;SI;SI;74035055.0;-33,6918122338202;-65,5007310600543
+SAN LUIS;General Pedernera;Las Isletas;0;--;--;--;--;--;--;--;--;--;74035055.0;-33,80238388;-65,55150692
+SAN LUIS;General Pedernera;Liborio Luna;0;--;--;--;--;--;--;--;SI;SI;74035055.0;-33,58674752;-65,63569492
+SAN LUIS;General Pedernera;Rio Quinto;0;--;--;--;--;--;--;--;--;--;74035055.0;-33,8502052260623;-65,2765475153146
+SAN LUIS;La Capital;Boca Del Tigre;0;--;--;--;--;SI;--;--;--;--;74056070.0;-33,3687779642577;-66,4074181299698
+SAN LUIS;La Capital;Cerro Colorado;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,2550955344668;-66,2286548309473
+SAN LUIS;La Capital;Charlone;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,8339098468774;-66,3197491639323
+SAN LUIS;La Capital;CRUZ DE PIEDRA;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,266266753132;-66,2171495179704
+SAN LUIS;La Capital;Daniel Donovan;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,3420464320009;-66,228894185802
+SAN LUIS;La Capital;El Charabon;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,5760067;-66,16051798
+SAN LUIS;La Capital;El Chorrillo;0;--;--;--;--;--;--;--;SI;SI;74056070.0;-33,2889484546354;-66,2580406259221
+SAN LUIS;La Capital;Estancia Grande;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,21809147;-66,17707132
+SAN LUIS;La Capital;Juan W. Gez;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,3909752127021;-66,1322831796652
+SAN LUIS;La Capital;Las Barrancas;0;--;--;--;--;SI;SI;--;--;--;74056070.0;-33,6311225157713;-66,2841166130187
+SAN LUIS;La Capital;Las Chacras;0;--;--;--;--;--;--;--;--;--;74056070.0;-33,2608224121538;-66,2381061398228
+RIO NEGRO;General Roca;Barrio El Treinta;0;--;--;--;--;--;--;--;SI;SI;62042297.0;-38,8937119363148;-67,971068167392
+RIO NEGRO;General Roca;Barrio Goretti;0;--;--;--;--;--;--;--;--;--;62042297.0;-38,9655980210737;-67,9509550220406
+RIO NEGRO;General Roca;Barrio La Lor;0;--;--;--;--;--;--;--;SI;SI;62042297.0;-38,940397;-68,0307899442508
+RIO NEGRO;General Roca;Barrio Norte (municipio de Cinco Saltos);0;--;--;--;--;--;--;--;--;--;62042280.0;-38,8680463297555;-68,0191261381801
+RIO NEGRO;General Roca;Barrio Pino Azul;0;--;--;--;--;--;--;--;SI;SI;62042297.0;-39,055737401237;-67,5935301061017
+RIO NEGRO;General Roca;Barrio Presidente Perón;0;--;--;--;--;--;--;--;--;--;62042297.0;-38,7961848310008;-68,0734334344623
+RIO NEGRO;General Roca;Barrio Puente De Madera;0;--;--;--;--;--;--;--;--;--;62042297.0;-38,9589646944033;-67,9492414342193
+RIO NEGRO;General Roca;Barrio Tres Luces;0;--;--;--;--;--;--;--;SI;SI;62042297.0;-38,9386794797604;-67,9440033559728
+RIO NEGRO;General Roca;Peñas Blancas;0;--;--;--;--;SI;--;--;--;--;62042265.0;-37,6830439804041;-67,8688871212575
+RIO NEGRO;General Roca;Tres Luces;0;--;--;--;--;--;--;--;--;--;62042297.0;-38,9655980210737;-67,9509550220406
+RIO NEGRO;Pilcaniyeu;Paso Flores;0;--;--;--;--;SI;--;--;--;--;62070030.0;-40,6020855452361;-70,6965424592972
+SAN JUAN;Chimbas;El Mogote;0;--;--;--;--;--;--;--;--;--;70042010.0;-31,4800263304441;-68,4821821646732
+SAN JUAN;Chimbas;Villa Paula Albarracin;0;--;--;--;--;--;SI;--;SI;SI;70042010.0;-31,4936358990356;-68,5357082138994
+SAN JUAN;Jáchal;El Fical;0;--;--;--;--;--;--;--;--;--;70056040.0;-30,2202750575676;-68,6909967597496
+SAN JUAN;Jáchal;El Fiscal;0;--;--;--;--;--;--;--;--;--;70056040.0;-30,2202750575676;-68,6909967597496
+SAN JUAN;Jáchal;La Falda;0;--;--;--;--;--;--;--;--;--;70056040.0;-30,1628729670379;-68,6652633159112
+SALTA;Capital;El Tipal - La Almudena;0;--;--;--;--;SI;SI;--;SI;SI;66028010.0;-24,7589;-65,4719
+SALTA;Cerrillos;Barrio El Congreso;0;--;--;--;SI;--;--;--;--;SI;66035030.0;-24,8774314408788;-65,478464215737
+SALTA;Cerrillos;Barrio Las Tunas;0;--;--;--;SI;--;--;--;--;SI;66035030.0;-24,8581686105385;-65,3991341395925
+SALTA;Cerrillos;Barrio Los Olmos;0;--;--;--;--;--;--;--;--;--;66035030.0;-24,8784306645047;-65,466289926351
+SALTA;Cerrillos;Barrio Los Pinares;0;SI;--;--;SI;--;SI;--;--;--;66035030.0;-24,8581686105385;-65,3991341395925
+SALTA;Grl. José de San Martín;Misión Tierras Fiscales;0;--;--;--;--;--;--;--;--;--;66056200.0;-23,2644560588445;-64,0052653883187
+SAN JUAN;25 de Mayo;Campo Afuera;0;--;--;--;--;--;--;--;--;--;70126010.0;-31,4165329806484;-68,5316143378439
+SAN JUAN;25 de Mayo;La Chimbera;0;--;--;--;--;--;--;--;--;--;70126010.0;-31,8505514541041;-68,309461754649
+SAN JUAN;25 de Mayo;Villa Borjas;0;--;--;--;--;--;SI;--;--;--;70126010.0;-31,8100072529359;-68,3289623063813
+SAN JUAN;Albardón;La Cañada;0;--;--;--;--;--;--;--;--;--;70007010.0;-31,4475643930837;-68,4817213288378
+SAN JUAN;Albardón;Villa Ampacama;0;--;--;--;--;--;--;--;--;--;70007010.0;-31,3864085743851;-68,4572411115084
+SAN JUAN;Albardón;Villa General San Martin;0;--;--;--;--;--;SI;--;--;--;70007010.0;-31,421071066377;-68,4907605706737
+SAN JUAN;Angaco;Villa El Salvador;0;--;--;--;--;--;SI;--;SI;SI;70014010.0;-31,4454020414681;-68,417640160613
+SAN JUAN;Calingasta;Barreal;0;--;--;--;--;--;--;--;SI;SI;70021020.0;-31,652328851699;-69,479673849861
+SAN JUAN;Calingasta;Villa Pituil;0;--;--;--;--;--;--;--;--;--;70021020.0;-31,6528323304108;-69,4815385910816
+SAN JUAN;Caucete;Las Talas;0;--;--;--;--;--;--;--;--;--;70035050.0;-31,6009569892315;-68,2979743657121
+SAN JUAN;Caucete;Los Medanos;0;--;--;--;--;--;--;--;--;--;70035050.0;-31,6267504756331;-68,2618585178493
+MENDOZA;San Martín;PALMIRA;0;--;--;--;SI;--;SI;--;SI;SI;50098090.0;-33,0499932818968;-68,5490896779466
+MENDOZA;San Rafael;Barrio Echeverria;0;--;--;--;--;--;--;--;SI;SI;50105080.0;-34,6278079094528;-68,4330730738277
+MENDOZA;San Rafael;Barrio Las Rosas;0;--;--;--;--;--;--;--;--;--;50105080.0;-34,6278079094528;-68,4330730738277
+MENDOZA;San Rafael;Barrio Primavera;0;--;--;--;--;--;--;--;--;--;50105080.0;-34,6298100948936;-68,5105923910427
+MENDOZA;San Rafael;Cuadro Nacional;0;--;--;--;--;--;--;--;SI;SI;50105080.0;-34,6175050676523;-68,2817525680486
+MENDOZA;Tupungato;Villa Bastias;0;--;--;--;--;--;--;--;--;--;50126020.0;-33,3420986445545;-69,1487758488674
+MISIONES;Cainguás;Dos de Mayo Núcleo II;0;--;--;--;--;--;--;--;--;--;54014030.0;-27,029119573606;-54,6647616030905
+MISIONES;Cainguás;Nucleo I;0;--;--;--;--;--;--;--;--;--;54014055.0;-26,9808943053968;-54,7030774930753
+MISIONES;Cainguás;Nucleo Ii;0;--;--;--;--;--;--;--;--;SI;54014055.0;-27,0234502899983;-54,6788256442778
+MISIONES;Capital;Posadas (Extensión);0;--;--;--;--;--;--;--;SI;SI;54028040.0;-27,42640;-55,88140
+MENDOZA;Luján de Cuyo;MAYOR DRUMMOND;0;--;--;--;SI;--;SI;--;SI;SI;50063060.0;-33,0038391611615;-68,8612966964436
+MENDOZA;Luján de Cuyo;Piedras Blancas;0;--;--;--;--;--;--;--;--;--;50063050.0;-33,0198804741995;-69,3030036808918
+MENDOZA;Luján de Cuyo;Valle Del Sol;0;--;--;--;--;--;--;--;--;--;50063050.0;-33,0174255607471;-69,2972914626044
+MENDOZA;Luján de Cuyo;Villa El Refugio;0;--;--;--;--;--;--;--;--;--;50063050.0;-32,9975296309707;-69,317680250878
+MENDOZA;Luján de Cuyo;VISTALBA;0;--;--;--;SI;--;SI;--;SI;SI;50063060.0;-33,0237918976098;-68,9247432402669
+MENDOZA;Maipú;COQUIMBITO;0;--;--;--;SI;--;--;--;SI;SI;50070090.0;-32,9792545593489;-68,8089838444183
+LA RIOJA;Arauco;Machigasta;0;--;--;--;--;--;--;--;SI;SI;46007040.0;-28,5410843774809;-66,8070296105313
+LA RIOJA;Arauco;San Antonio;0;--;--;--;--;--;--;--;--;SI;46007040.0;-28,5553801376497;-66,8013856528183
+LA RIOJA;Chilecito;Anguinan;0;--;--;--;--;--;--;--;--;--;46042030.0;-29,2060142258143;-67,4589845307511
+LA RIOJA;Chilecito;La Puntilla;0;--;--;--;--;--;--;--;--;--;46042030.0;-29,1484698105368;-67,4191244361359
+LA RIOJA;Chilecito;Los Sarmientos;0;--;--;--;--;--;--;--;--;SI;46042030.0;-29,1517467165263;-67,4826010369502
+LA RIOJA;Chilecito;San Miguel;0;--;--;--;--;--;--;--;--;--;46042030.0;-29,184674818415;-67,4780826682806
+MENDOZA;Guaymallén;BERMEJO;0;--;--;--;SI;--;--;--;SI;SI;50028030.0;-32,8674494392665;-68,8015983577909
+MENDOZA;Guaymallén;BUENA NUEVA;0;--;--;--;SI;SI;--;--;SI;SI;50028030.0;-32,887610360379;-68,7797113648865
+MENDOZA;Guaymallén;Capilla Del Rosario;0;--;--;--;SI;--;--;--;SI;SI;50028050.0;-32,9057059086968;-68,7753107154796
+MENDOZA;Guaymallén;COLONIA SEGOVIA;0;--;--;--;--;--;--;--;SI;SI;50028020.0;-32,8445720739406;-68,7264015008637
+MENDOZA;Guaymallén;DORREGO;0;--;--;--;SI;--;--;--;SI;SI;50028030.0;-32,9079284079055;-68,8402487586896
+MENDOZA;Guaymallén;EL SAUCE;0;--;--;--;SI;--;--;--;SI;SI;50028030.0;-32,866493937014;-68,7583334039687
+MENDOZA;Guaymallén;GENERAL BELGRANO;0;--;--;--;--;--;--;--;SI;SI;50028030.0;-32,8819026438146;-68,8087568548896
+MENDOZA;Guaymallén;JESUS NAZARENO;0;--;--;--;SI;--;--;--;SI;SI;50028050.0;-32,9208013873904;-68,7868066982545
+MENDOZA;Guaymallén;KILOMETRO 11 (GUAYMALLEN);0;--;--;--;--;--;--;--;--;--;50028020.0;-32,9207614727554;-68,7071185835279
+MENDOZA;Guaymallén;LAS CAÑAS;0;--;--;--;SI;--;--;--;SI;SI;50028050.0;-32,9057702142765;-68,8263412149075
+MENDOZA;Las Heras;Panquehua;0;--;--;--;SI;--;--;--;SI;SI;50049040.0;-32,8349236425418;-68,8451652007894
+MENDOZA;Las Heras;Papagayos;0;--;--;--;--;SI;--;--;SI;SI;50049040.0;-32,8219;-68,8964
+MENDOZA;Las Heras;Sierras De Encalada;0;--;--;--;--;--;--;--;SI;SI;50049040.0;-32,9869460291704;-68,9485091767272
+MENDOZA;Lavalle;Barrio La Esperanza;0;--;--;--;--;--;--;--;--;--;50056040.0;-32,6735728612892;-68,3840802981371
+MENDOZA;Luján de Cuyo;Barrio Adina I Y Ii;0;--;--;--;--;--;--;--;SI;SI;50063060.0;-33,0649388173829;-68,8877014932113
+MENDOZA;Luján de Cuyo;CARRODILLA;0;--;--;--;SI;--;SI;--;SI;SI;50063060.0;-32,9776578285745;-68,8524394649607
+MENDOZA;Luján de Cuyo;CHACRAS DE CORIA;0;--;--;--;SI;--;SI;--;SI;SI;50063060.0;-32,9899032062811;-68,8913679185275
+MENDOZA;Luján de Cuyo;El Carmelo;0;--;--;--;--;--;--;--;--;--;50063050.0;-32,9551111218674;-69,281192394514
+MENDOZA;Luján de Cuyo;La Puntilla;0;--;--;--;SI;--;SI;--;--;--;50063060.0;-32,9609713860174;-68,8723323876365
+MENDOZA;Luján de Cuyo;Las Carditas;0;--;--;--;--;--;--;--;--;--;50063050.0;-32,9551111218674;-69,281192394514
+MENDOZA;Luján de Cuyo;Los Manantiales;0;--;--;--;--;--;--;--;SI;SI;50063050.0;-32,8990128008468;-69,3340868979844
+MENDOZA;Guaymallén;PEDRO MOLINA;0;--;--;--;SI;--;--;--;SI;SI;50028030.0;-32,8749826070419;-68,8287743942338
+MENDOZA;Guaymallén;RODEO DE LA CRUZ;0;--;--;--;SI;SI;--;--;SI;SI;50028010.0;-32,9233876380597;-68,7484037679985
+MENDOZA;Guaymallén;SAN FRANCISCO DEL MONTE;0;--;--;--;SI;--;--;--;SI;SI;50028050.0;-32,9176425793206;-68,8127477726945
+MENDOZA;Guaymallén;San Jose;0;--;--;--;SI;--;--;--;SI;SI;50028030.0;-32,887910080091;-68,8336077167937
+MENDOZA;Guaymallén;VILLA NUEVA;0;--;--;--;--;--;--;--;SI;SI;50028030.0;-32,9010420892697;-68,8031458310547
+MENDOZA;Junín;ALTO VERDE;0;--;--;--;--;--;--;--;--;--;50035050.0;-33,15452764;-68,35591009
+MENDOZA;Las Heras;El Algarrobal;0;--;--;--;SI;--;--;--;SI;SI;50049040.0;-32,8327487536079;-68,7957179005563
+MENDOZA;Las Heras;El Borbollon;0;--;--;--;--;--;--;--;SI;SI;50049040.0;-32,8069208013923;-68,7772864976942
+MENDOZA;Las Heras;EL CHALLAO;0;--;--;--;SI;--;--;--;--;--;50049040.0;-32,8187507127469;-68,9164320667614
+MENDOZA;Las Heras;EL PLUMERILLO;0;--;--;--;SI;--;--;--;SI;SI;50049040.0;-32,8468358627701;-68,8191474531696
+MENDOZA;Las Heras;EL RESGUARDO;0;--;--;--;SI;--;--;--;SI;--;50049040.0;-32,7650499892594;-68,7913047281368
+MENDOZA;Las Heras;EL ZAPALLAR;0;--;--;--;SI;--;--;--;SI;SI;50049040.0;-32,8555537707294;-68,8280317752065
+MENDOZA;Las Heras;La Cieneguita;0;--;--;--;--;--;--;--;SI;SI;50049040.0;-32,8444580470853;-68,8646206504362
+NEUQUEN;Zapala;Covunco Centro;0;--;--;--;--;--;--;--;--;SI;58112030.0;-38,7532470280083;-70,0275921805241
+MENDOZA;Maipú;GENERAL GUTIERREZ;0;--;--;--;SI;--;--;--;SI;SI;50070040.0;-32,9797721809011;-68,769429675373
+MENDOZA;Maipú;LUZURIAGA;0;--;--;--;SI;--;--;--;SI;SI;50070090.0;-32,9500582112409;-68,8034450473205
+MENDOZA;Malargüe;Bardas Blancas;0;--;--;--;--;--;--;SI;--;SI;50077010.0;-35,870882529299;-69,8066780720987
+LA RIOJA;Coronel Felipe Varela;Santa Clara;0;--;--;--;--;--;--;--;--;--;46028010.0;-29,361377257847;-68,6264098036917
+ENTRE RIOS;Paraná;Colonia Merou;0;--;--;--;--;--;--;--;--;--;30084110.0;-31,9005080706;-60,3016846563
+ENTRE RIOS;Diamante;Strobel;0;--;SI;--;--;--;--;--;SI;SI;30021120.0;-32,0585362988015;-60,6108078415946
+ENTRE RIOS;Federación;Colonia Ensanche Sauce;0;--;--;--;--;--;SI;--;--;SI;30028090.0;-30,8567132993029;-57,8648918069168
+ENTRE RIOS;Federación;Colonia Santa María;0;--;--;--;--;--;SI;--;--;SI;30028040.0;-30,5993375212861;-58,1858011706289
+JUJUY;Doctor Manuel Belgrano;San Pablo De Reyes;0;--;--;--;--;--;--;--;--;--;38021050.0;-24,1436588948106;-65,482919981479
+JUJUY;El Carmen;Fleming;0;--;--;--;--;--;--;--;SI;SI;38014040.0;-24,587376342521;-64,924057792361
+JUJUY;El Carmen;Pila Pardo;0;--;--;--;--;--;--;--;--;--;38014040.0;-24,5598827881681;-64,9141975517301
+JUJUY;Yavi;San Jose;0;--;--;--;--;--;--;--;--;--;38112040.0;-22,1378271107898;-65,3097886156379
+JUJUY;Tilcara;Yacoraite;0;--;--;--;--;--;--;--;--;--;38094040.0;-23,4023544678311;-65,3910451552268
+ENTRE RIOS;Paraná;El Ramblón;0;--;--;--;--;--;SI;--;--;SI;30084095.0;-31,8480473768248;-60,0927487719843
+MENDOZA;San Martín;Alto Salvador;0;--;--;--;SI;--;SI;--;--;--;50098090.0;-33,0359716817131;-68,4708407197208
+CORDOBA;San Justo;Trinchera;0;--;--;--;--;--;--;--;--;--;14140070.0;-31,9472621856778;-62,8197328817386
+CORDOBA;Santa María;Barrio Las Quintas;0;--;--;--;--;--;--;--;SI;--;14147220.0;-31,5502925188794;-64,4334256167366
+CORDOBA;Santa María;Barrio Villa del Parque;0;--;--;--;--;--;--;--;--;--;14147280.0;-31,7772193262534;-64,532077974826
+CORDOBA;Calamuchita;Monte Ralo;0;--;--;--;--;--;--;--;--;--;14007170.0;-31,916666666667;-64,238888888889
+CORDOBA;Calamuchita;San Ignacio (Loteo Vélez Crespo);0;--;--;--;--;--;SI;--;SI;SI;14007170.0;-32,165;-64,516944444444
+CORDOBA;Calamuchita;Santa Monica;0;--;--;--;--;--;--;--;--;--;14007170.0;-32,0665951444652;-64,5791018557419
+CORDOBA;Calamuchita;Villa Ciudad Parque Los Reartes;0;--;SI;--;--;--;--;--;--;SI;14007170.0;-31,9091576117526;-64,5456887371347
+CORDOBA;Calamuchita;Villa Ciudad Parque Los Reartes (3a. Sección);0;--;--;--;--;--;SI;--;--;--;14007170.0;-31,9091576;-64,54568873
+JUJUY;Ledesma;Maíz Negro;0;--;--;--;--;--;--;--;--;--;38035090.0;-23,9512957904139;-64,7747416972346
+JUJUY;Ledesma;Pueblo Ledesma;0;--;--;--;--;--;--;--;SI;SI;38035010.0;-23,8273072049676;-64,791360563704
+JUJUY;Palpalá;Mina 9 de Octubre;0;--;--;--;--;--;--;--;--;--;38042040.0;-24,245642700609;-65,0838068756619
+JUJUY;Palpalá;Rio Blanco;0;--;--;--;--;--;--;--;SI;SI;38042010.0;-24,2342342593785;-65,2300747773282
+JUJUY;San Antonio;La Toma;0;--;--;--;--;--;--;--;--;--;38056020.0;-24,3374800000056;-65,36524
+CORDOBA;Marcos Juárez;Noetinger;0;--;--;--;--;--;--;--;--;--;14063020.0;-32,.36;-62,.31
+CORDOBA;Calamuchita;Villa San Miguel;0;--;--;--;--;--;SI;--;SI;--;14007170.0;-31,8582901636165;-64,3750577906576
+CORDOBA;Capital;Jardín Arenales;0;--;--;--;--;--;--;--;SI;SI;14014010.0;-31,3686406343815;-64,0603031964104
+CORDOBA;Capital;La Floresta;0;--;--;--;--;--;--;--;SI;SI;14014010.0;-31,3961494977945;-64,0609143527134
+CORDOBA;Colón;1 De Agosto;0;--;--;--;--;--;--;--;SI;SI;14021080.0;-31,306907347736;-64,1785314598263
+CORDOBA;Colón;Almirante Brown;0;--;--;--;--;--;--;--;--;--;14021080.0;-31,3075672143524;-64,1814827461648
+CORDOBA;Colón;Ciudad De Los Niños;0;--;--;--;--;--;--;--;--;--;14021080.0;-31,2957196524063;-64,1768685276575
+CORDOBA;Colón;Dumesnil;0;--;--;--;SI;--;--;--;--;SI;14021270.0;-31,3321162961153;-64,3336598560636
+CORDOBA;Colón;El Diquecito;0;--;--;--;--;--;--;--;--;SI;14021270.0;-31,3589143636745;-64,3650932467319
+CORDOBA;Colón;El Pueblito;0;--;--;--;--;--;--;--;SI;--;14021075.0;-31,1065564116392;-64,2971945109864
+ENTRE RIOS;Islas del Ibicuy;Arroyo Martínez;0;--;--;--;--;--;--;--;SI;SI;30063030.0;-33,6387532;-58,82767479
+ENTRE RIOS;Islas del Ibicuy;Ñancay;0;--;--;--;--;--;--;--;--;--;30063030.0;-33,4486459401767;-58,6696419201236
+CORDOBA;Colón;Villa Corazon De Maria;0;--;--;--;--;--;--;--;--;--;14021080.0;-31,4435294401245;-63,9963793951592
+CORDOBA;Colón;Villa Pastora;0;--;--;--;--;--;--;--;--;--;14021080.0;-31,306907347736;-64,1785314598263
+CORDOBA;San Javier;El Pueblito;0;--;--;--;--;--;--;--;--;--;14133080.0;-31,951097322144;-65,0721507920682
+CORDOBA;San Javier;El Valle;0;--;--;--;--;--;--;--;--;--;14133080.0;-31,951097322144;-65,0721507920682
+CORDOBA;San Javier;Los Romeros;0;--;--;--;--;--;SI;--;--;--;14133040.0;-32,1379667827758;-65,223236085238
+BUENOS AIRES;La Costa;Aguas Verdes;0;SI;--;--;SI;--;SI;--;SI;SI;6420030.0;-36,6552111489067;-56,6949520678334
+CORRIENTES;Capital;Barrio Esperanza;0;--;--;--;--;--;--;--;SI;SI;18021020.0;-27,5475;-58,785556
+BUENOS AIRES;Olavarría;Villa Arrieta;0;--;--;--;--;--;--;--;SI;SI;6595080.0;-36,9436605372421;-60,1578271825148
+BUENOS AIRES;Pehuajó;Chiclana;0;--;--;--;--;--;SI;--;SI;SI;6609080.0;-35,7327373193414;-61,7439272931387
+BUENOS AIRES;Tres Arroyos;Dunamar;0;--;--;--;--;--;--;--;SI;SI;6833110.0;-38,8586780962346;-60,0873319312173
+BUENOS AIRES;Tres Arroyos;Lin Calel;0;--;--;--;--;--;SI;--;--;--;6833040.0;-38,7081778337076;-60,2417246463467
+CORDOBA;Ischilín;Los Chañaritos;0;--;--;--;--;--;--;--;--;--;14049120.0;-30,.56;-64,953055555556
+BUENOS AIRES;Pilar;Barrio Parque Almirante Irizar (Ap. Kilómetro 61);0;--;--;--;--;--;--;--;SI;SI;6638040.0;-34,4220055807037;-58,9528378824193
+BUENOS AIRES;Pilar;Club de Campo Larena - Los Quinchos;0;--;--;--;--;--;--;--;--;SI;6638040.0;-34,3911412682883;-59,0007332098308
+BUENOS AIRES;Pilar;Country Club El Jagüel;0;--;--;--;--;--;--;--;SI;SI;6638040.0;-34,400000;-59,0219
+BUENOS AIRES;Daireaux;La Manuela;0;--;--;--;--;--;--;--;--;--;6231030.0;-36,7451930590319;-62,0699673803373
+SAN JUAN;Angaco;Villa Sefair (Talacasto);0;--;--;--;--;--;--;--;--;--;70014010.0;-31,4439397880938;-68,4217688171581
+BUENOS AIRES;Chascomús;Barrio San Cayetano;0;--;--;--;SI;--;--;--;SI;SI;6217020.0;-35,5466815668936;-58,0013258753826
+SAN JUAN;Zonda;Villa Tacu;0;--;--;--;--;--;--;--;--;--;70133010.0;-31,5293321449519;-68,7253410683189
+SAN LUIS;Ayacucho;Balde De Azcurra;0;--;--;--;--;--;--;--;--;--;74007050.0;-32,1365131493381;-66,854453887488
+BUENOS AIRES;Necochea;Costa Bonita;0;--;--;--;--;--;SI;--;SI;SI;6581040.0;-38,559592;-58,6306517
+BUENOS AIRES;Colón;El Arbolito;0;--;--;--;--;--;--;SI;--;--;6175010.0;-33,9147838019682;-60,9438081845998
+BUENOS AIRES;Coronel de Marina L. Rosales;Villa del Mar;0;--;--;--;--;--;--;--;SI;SI;6182030.0;-38,8532242630709;-62,1164752039925
+BUENOS AIRES;La Costa;Lucila Del Mar;0;SI;SI;--;SI;--;SI;--;SI;SI;6420030.0;-36,6627491358367;-56,6817136067571
+BUENOS AIRES;Villa Gesell;Mar De Las Pampas;0;--;--;--;--;--;--;--;SI;SI;6868020.0;-37,3281312355181;-57,0399070097774
+BUENOS AIRES;Zárate;Barrio Saavedra;0;--;--;--;--;--;--;--;SI;SI;6882050.0;-34,1263843372848;-59,020156759664
+SAN LUIS;Libertador Grl. San Martín;Los Comederos;0;--;--;--;--;--;--;--;--;--;74063020.0;-32,7289421728431;-65,7305490571348
+SAN LUIS;Libertador Grl. San Martín;Mesilla Del Cura;0;--;--;--;--;--;--;--;--;--;74063050.0;-32,44741394;-65,82632991
+BUENOS AIRES;Ensenada;Dique Nº 1;0;--;--;--;--;--;--;--;SI;SI;6245010.0;-34,8758485548313;-57,9336298993983
+BUENOS AIRES;Ensenada;Isla Santiago (Oeste);0;--;--;--;--;--;--;--;--;SI;6245010.0;-34,8370461990756;-57,8999620408998
+BUENOS AIRES;Ensenada;Punta Lara;0;--;--;--;--;--;--;--;SI;SI;6245010.0;-34,8346689394776;-58,0010481870988
+BUENOS AIRES;Ensenada;Villa Catela;0;--;--;--;--;--;SI;--;SI;SI;6245010.0;-34,884600148052;-57,9511290255284
+BUENOS AIRES;Exaltación de la Cruz;El Remanso;0;SI;--;--;--;--;SI;SI;SI;SI;6266030.0;-34,4149477393736;-59,086281182388
+BUENOS AIRES;La Plata;Abasto;0;SI;SI;--;SI;--;SI;SI;SI;SI;6441030.0;-35,0103681960184;-58,1151848585184
+BUENOS AIRES;La Plata;Angel Etcheverry;0;--;SI;--;--;--;SI;--;SI;SI;6441030.0;-35,0261580911328;-58,0959060056615
+BUENOS AIRES;La Plata;Arana;0;--;--;--;--;--;SI;--;--;--;6441030.0;-35,0300556104917;-57,8865250010855
+BUENOS AIRES;La Plata;Arturo Segui;0;--;SI;--;--;--;--;SI;SI;SI;6441030.0;-34,8907397135389;-58,132711650613
+BUENOS AIRES;La Plata;Barrio El Carmen Oeste;0;--;--;--;--;--;SI;--;--;--;6441030.0;-34,9707544223488;-57,8108950283044
+BUENOS AIRES;La Plata;Barrio El Peligro;0;SI;--;--;--;--;--;SI;SI;SI;6441030.0;-34,933333;-58,166667
+BUENOS AIRES;La Plata;Barrio Gambier;0;--;--;--;--;--;SI;--;SI;SI;6441030.0;-34,9359594527479;-57,9837630521994
+BUENOS AIRES;La Plata;Barrio Las Malvinas;0;--;--;--;--;--;--;--;SI;SI;6441030.0;-34,9374880163466;-58,0093954169858
+BUENOS AIRES;La Plata;Barrio Las Quintas;0;--;--;--;--;--;--;--;--;SI;6441030.0;-34,9257210987549;-58,0393403036748
+BUENOS AIRES;La Plata;City Bell;0;--;SI;--;SI;--;SI;SI;SI;SI;6441030.0;-34,8879382744371;-58,0582328038691
+BUENOS AIRES;La Plata;El Retiro;0;--;--;--;SI;--;--;--;SI;SI;6441030.0;-34,9476175562489;-57,9957432212034
+BUENOS AIRES;La Plata;Esquina Negra;0;--;--;--;--;--;--;--;SI;SI;6441030.0;-35,038806066743;-58,0593061620077
+BUENOS AIRES;La Plata;Joaquin Gorina;0;--;SI;--;SI;--;--;SI;SI;SI;6441030.0;-34,9017817335757;-58,039185928571
+BUENOS AIRES;La Plata;Jose Hernandez;0;--;SI;--;SI;--;--;--;SI;SI;6441030.0;-34,8985896635727;-58,0143972026636
+BUENOS AIRES;La Plata;Jose Melchor Romero;0;--;SI;--;--;--;--;--;SI;SI;6441030.0;-34,9455092438623;-58,0362904746611
+BUENOS AIRES;La Plata;La Cumbre;0;--;--;--;--;--;SI;--;SI;SI;6441030.0;-34,9235917717359;-58,0019478733944
+BUENOS AIRES;La Plata;La Providencia;0;--;--;--;--;--;--;--;--;--;6441030.0;-35,0232476;-58,2307028
+BUENOS AIRES;La Plata;Lisandro Olmos;0;--;SI;--;--;--;--;--;SI;SI;6441030.0;-34,9976086009747;-58,043377425691
+BUENOS AIRES;La Plata;Los Hornos;0;--;SI;--;SI;--;SI;--;SI;SI;6441030.0;-34,973715513981;-57,9850539062724
+BUENOS AIRES;La Plata;Manuel B Gonnet;0;--;SI;--;SI;--;--;SI;SI;SI;6441030.0;-34,8819511933447;-58,0189915342036
+BUENOS AIRES;La Plata;Poblet;0;--;--;--;--;--;--;--;--;--;6441030.0;-35,0604581;-57,9547426
+BUENOS AIRES;La Plata;Ringuelet;0;--;SI;--;SI;--;--;SI;SI;SI;6441030.0;-34,8910544941568;-57,9913781921596
+BUENOS AIRES;La Plata;Rufino De Elizalde;0;--;--;--;--;--;--;--;SI;SI;6441030.0;-34,9710900774179;-57,9524351288235
+BUENOS AIRES;La Plata;Tolosa;0;--;SI;--;SI;--;--;SI;SI;SI;6441030.0;-34,9007699307169;-57,9821293495972
+BUENOS AIRES;La Plata;Transradio;0;--;--;--;--;SI;--;--;SI;SI;6441030.0;-34,8790055541958;-58,081733864461
+BUENOS AIRES;La Plata;Villa Elisa;0;--;SI;--;SI;--;SI;SI;SI;SI;6441030.0;-34,8776205187118;-58,0907139194439
+BUENOS AIRES;La Plata;Villa Elvira;0;--;SI;--;SI;--;SI;--;SI;SI;6441030.0;-34,9406437624757;-57,9214984675578
+BUENOS AIRES;La Plata;Villa Garibaldi;0;--;--;--;--;--;SI;--;--;--;6441030.0;-34,9986517196678;-57,8404966243711
+BUENOS AIRES;La Plata;Villa Montoro;0;--;--;--;--;--;SI;--;SI;SI;6441030.0;-34,9634490535296;-57,9025001308298
+BUENOS AIRES;Pilar;Roberto De Vicenzo;0;--;--;--;--;--;--;--;SI;SI;6638040.0;-34,4369652784326;-58,7669941785147
+BUENOS AIRES;Pinamar;Carilo;0;--;SI;--;--;--;--;--;SI;SI;6644010.0;-37,1641593745618;-56,9027914378095
+BUENOS AIRES;Pinamar;Ostende;0;--;SI;--;--;--;--;--;SI;SI;6644010.0;-37,1300477581888;-56,8833984697828
+BUENOS AIRES;Pinamar;Valeria Del Mar;0;--;SI;--;--;--;--;--;SI;SI;6644010.0;-37,1445557771803;-56,890291998877
+BUENOS AIRES;Presidente Perón;Barrio America Unida;0;--;--;--;--;--;--;--;SI;SI;6648010.0;-34,886197581853;-58,41733483734
+BUENOS AIRES;Punta Indio;Las Tahonas;0;--;--;--;--;--;--;--;--;--;6655040.0;-35,3548754574502;-57,3822045685313
+CATAMARCA;Fray Mamerto Esquiú;La Carrera;0;--;--;--;--;SI;--;--;--;--;10063050.0;-28,3495576813874;-65,7091195877043
+CATAMARCA;Fray Mamerto Esquiú;La Falda De San Antonio;0;--;--;--;--;--;SI;--;--;--;10063050.0;-28,4198487342191;-65,6988377960377
+BUENOS AIRES;Escobar;Puerto Paraná;0;--;--;--;--;--;--;--;SI;SI;6252010.0;-34,2467;-58,7308
+CATAMARCA;Fray Mamerto Esquiú;El Hueco;0;--;--;--;SI;--;--;--;SI;--;10063050.0;-28,4127884506849;-65,7175369854892
+BUENOS AIRES;Adolfo Alsina;Thames;0;--;--;--;--;--;--;--;--;--;6007010.0;-36,9291655620507;-63,2957265324881
+BUENOS AIRES;Adolfo Alsina;Villa Margarita;0;--;--;--;--;--;--;--;--;--;6007100.0;-37,4600992847959;-63,2405658599852
+CATAMARCA;Fray Mamerto Esquiú;La Tercena;0;--;--;--;--;--;SI;--;SI;--;10063050.0;-28,3734473479931;-65,7081292515981
+BUENOS AIRES;Florencio Varela;El Tropezon;0;--;--;--;--;--;--;--;SI;SI;6274010.0;-34,9564048574127;-58,2787454299742
+BUENOS AIRES;Florencio Varela;La Capilla;0;--;--;--;SI;--;--;SI;SI;SI;6274010.0;-34,9437330109546;-58,2632550914349
+BUENOS AIRES;La Plata;Villa Parque Sicardi;0;--;--;--;--;--;SI;--;SI;SI;6441030.0;-34,9830288461923;-57,8674653074052
+BUENOS AIRES;Rojas;Barrio Las Margaritas;0;--;--;--;--;--;--;--;--;--;6686080.0;-34,1932374145653;-60,6820264999894
+BUENOS AIRES;Rojas;Villa Parque Cecir;0;--;--;--;--;--;--;--;--;--;6686060.0;-34,1707175989305;-60,7438336816558
+CATAMARCA;Fray Mamerto Esquiú;San Antonio;0;--;--;--;SI;--;--;--;SI;SI;10063050.0;-28,4237766788262;-65,7062134320732
+BUENOS AIRES;Saladillo;Blaquier;0;--;--;--;--;--;--;--;--;--;6707060.0;-35,767700734608;-59,3038642874232
+CATAMARCA;Tinogasta;La Puntilla;0;--;--;--;--;--;--;--;--;--;10105150.0;-28,1243914662106;-67,4981013989976
+CATAMARCA;Tinogasta;La Ramadita;0;--;--;--;--;--;--;--;--;--;10105080.0;-27,6442427673373;-67,6139458012753
+CATAMARCA;Tinogasta;Pampa Blanca;0;--;--;--;--;--;--;--;--;--;10105080.0;-27,6354340349652;-67,6168389660358
+CORDOBA;Santa María;La Cumbrecita;0;--;--;--;--;--;SI;SI;--;--;14147280.0;-31,898333;-64,773333
+CORDOBA;Santa María;La Donosa;0;--;--;--;--;--;SI;--;--;--;14147280.0;-31,6430306930417;-64,3453826897825
+CORDOBA;Sobremonte;Cerro Colorado;0;--;--;--;--;--;--;--;--;--;14154040.0;-30,096944;-63,931111
+CORDOBA;Punilla;San Roque Del Lago;0;--;--;--;--;--;--;--;--;--;14091060.0;-31,3266874438793;-64,4544689502096
+CORDOBA;Totoral;La Paz;0;--;--;--;--;--;--;--;--;--;14168030.0;-30,9548424648838;-64,2147074598285
+CORDOBA;Santa María;Mi Valle;0;--;--;--;--;--;--;--;--;--;14147220.0;-31,5725913753684;-64,3341910295503
+CORDOBA;Santa María;Milenica;0;--;--;--;--;--;--;--;SI;SI;14147217.0;-31,4572735024583;-64,4057106148379
+CORDOBA;Santa María;Tejas Tres;0;--;--;--;--;--;--;--;--;--;14147220.0;-31,4661292884087;-64,3670949660514
+CORDOBA;Santa María;Tierra Alta;0;--;--;--;--;--;--;--;--;--;14147220.0;-31,4723029527477;-64,4707945856239
+ENTRE RIOS;Concordia;Benito Legeren;0;--;--;--;--;--;--;--;SI;SI;30015130.0;-31,4288786267036;-58,0768061386463
+ENTRE RIOS;Concordia;Colonia Yeruá;0;--;--;--;--;--;--;--;--;--;30015087.0;-31,4408896802806;-58,1194803676389
+ENTRE RIOS;Concordia;El Redomón;0;--;--;--;--;--;--;--;--;--;30015110.0;-31,0958808459898;-58,290063733468
+ENTRE RIOS;Concordia;Las Tejas;0;--;--;--;--;--;--;--;SI;SI;30015130.0;-31,4119399624827;-58,0740082494429
+ENTRE RIOS;Concordia;Villa Adela;0;--;--;--;--;--;--;--;SI;SI;30015130.0;-31,4037426459166;-58,0394128271546
+ENTRE RIOS;Concordia;VILLA ZORRAQUIN;0;--;--;--;--;--;--;--;SI;SI;30015130.0;-31,3299511832527;-58,0174848453444
+ENTRE RIOS;Colón;El Brillante;0;--;--;--;--;--;SI;--;--;--;30008100.0;-32,1797669801643;-58,2122328834059
+ENTRE RIOS;Uruguay;Estancia San Pedro;0;--;--;--;--;--;SI;--;--;--;30098030.0;-32,2669;-58,6294
+CORDOBA;Calamuchita;Arroyo San Antonio;0;--;--;--;--;--;--;--;SI;SI;14007020.0;-32,26205146004;-64,5937253212731
+ENTRE RIOS;Victoria;Charigüé;0;--;--;--;--;--;--;--;--;--;30105040.0;-32,9331069681438;-60,5907241451802
+ENTRE RIOS;Victoria;Laguna del Pescado;0;--;--;--;--;--;--;--;--;--;30105040.0;-32,6900337710703;-60,011835871903
+ENTRE RIOS;Victoria;Rincón de Nogoyá;0;--;--;--;--;--;SI;SI;--;SI;30105040.0;-32,7840822565326;-59,9066011827697
+CATAMARCA;Andalgalá;Aconquija;0;--;--;--;--;SI;--;--;SI;SI;10021010.0;-27,4743798884533;-66,0266884349829
+CATAMARCA;Andalgalá;Alto De Las Juntas;0;--;--;--;--;--;--;--;--;--;10021010.0;-27,4511959792163;-66,0199688270559
+CATAMARCA;Andalgalá;Buena Vista;0;--;--;--;--;--;--;--;--;--;10021010.0;-27,3391922396844;-66,0241892155379
+CATAMARCA;Andalgalá;La Mesada;0;--;--;--;SI;--;--;--;--;--;10021010.0;-27,4511959792163;-66,0199688270559
+CATAMARCA;Capayán;Los Angeles Norte;0;--;--;--;--;--;--;--;--;--;10042020.0;-28,4130524181894;-65,9974963114274
+CATAMARCA;Capayán;Los Angeles Sur;0;--;--;--;--;--;--;--;--;--;10042020.0;-28,5096259939006;-66,0134501995358
+CATAMARCA;Capital;Barrio Bancario;0;--;--;--;--;--;--;--;SI;SI;10049020.0;-28,466667;-65,783333
+ENTRE RIOS;Villaguay;Mojones Norte;0;--;--;--;--;--;--;--;--;SI;30113020.0;-31,5083237598534;-59,2008898465196
+CATAMARCA;Valle Viejo;El Bañado;0;--;--;--;--;--;--;--;--;--;10112030.0;-28,4594352492075;-65,7113717209433
+CATAMARCA;Valle Viejo;Polcos;0;--;--;--;SI;--;--;--;--;--;10112030.0;-28,4333815878035;-65,7202973350365
+CATAMARCA;Valle Viejo;Pozo Del Mistol;0;--;--;--;SI;--;--;--;--;--;10112030.0;-28,4689789857859;-65,7195047318519
+CATAMARCA;Valle Viejo;Santa Rosa;0;--;--;--;SI;--;SI;--;SI;SI;10112030.0;-28,447802287271;-65,7055328995515
+CATAMARCA;Valle Viejo;Sumalao;0;--;--;--;SI;--;SI;--;--;--;10112030.0;-28,4746455518307;-65,7433480027028
+CATAMARCA;Valle Viejo;Villa Dolores;0;--;--;--;SI;--;SI;--;--;SI;10112030.0;-28,4434739220039;-65,7215360640125
+CATAMARCA;Santa María;El Cerrito;0;--;--;--;--;--;--;--;SI;SI;10091040.0;-26,6988604981977;-66,0387334407325
+CATAMARCA;Santa María;La Puntilla;0;--;--;--;--;--;--;--;--;--;10091040.0;-26,8274550484771;-66,0506274507575
+CATAMARCA;Santa María;Lampacito;0;--;--;--;--;--;--;--;--;SI;10091040.0;-26,7265981975072;-66,0436979128184
+CATAMARCA;Santa María;Medanitos;0;--;--;--;--;--;--;--;--;--;10091040.0;-26,7588342868363;-66,0493067195716
+CATAMARCA;Santa María;Palo Seco;0;--;--;--;--;--;--;--;--;--;10091040.0;-26,8274550484771;-66,0506274507575
+CATAMARCA;Santa María;San Jose Banda;0;--;--;--;--;--;--;--;--;--;10091040.0;-26,8101195558413;-66,0595221384282
+CATAMARCA;Santa María;San Jose Norte;0;--;--;--;--;--;--;--;--;--;10091040.0;-26,7745985033315;-66,0362576892132
+BUENOS AIRES;Luján;Barrio Las Casuarinas;0;--;--;--;SI;--;SI;SI;SI;SI;6497060.0;-34,5607457195455;-59,1700837097016
+LA RIOJA;San Blas de los Sauces;ALPASINCHE;0;--;--;--;SI;--;SI;--;--;SI;46119010.0;-28,3536422425472;-67,080433367311
+LA RIOJA;San Blas de los Sauces;Amuschina;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,5555816291232;-67,1592836516078
+LA RIOJA;San Blas de los Sauces;Andolucas;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,5555816291232;-67,1592836516078
+LA RIOJA;San Blas de los Sauces;Chaupihuasi;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,3536422425472;-67,080433367311
+LA RIOJA;San Blas de los Sauces;Cuipan;0;--;--;--;--;--;--;--;--;SI;46119010.0;-28,4517974906601;-67,1178978512143
+LA RIOJA;San Blas de los Sauces;Las Talas;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,4517974906601;-67,1178978512143
+LA RIOJA;San Blas de los Sauces;Los Robles;0;--;--;--;--;SI;--;--;--;--;46119010.0;-28,4517974906601;-67,1178978512143
+LA RIOJA;San Blas de los Sauces;Salicas;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,407625810512;-67,0961546311905
+LA RIOJA;San Blas de los Sauces;San Blas;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,407625810512;-67,0961546311905
+LA RIOJA;San Blas de los Sauces;Shaqui;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,4812201375784;-67,128235105005
+LA RIOJA;San Blas de los Sauces;Suriyaco;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,5555816291232;-67,1592836516078
+LA RIOJA;San Blas de los Sauces;Tuyubil;0;--;--;--;--;--;--;--;--;--;46119010.0;-28,5555816291232;-67,1592836516078
+LA RIOJA;Sanagasta;Villa Sanagasta;0;--;SI;--;SI;SI;SI;SI;SI;SI;46126010.0;-29,3064491456943;-67,0414097362521
+CHUBUT;Escalante;Acceso Norte;0;--;--;--;--;SI;--;--;SI;SI;26021020.0;-45,782807331545;-67,5033367870766
+CHUBUT;Escalante;Barrio 25 De Mayo;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,8248454635041;-67,4616495988676
+CHUBUT;Escalante;Barrio Caleta Cordova;0;--;--;--;--;SI;--;--;SI;--;26021020.0;-45,7482508559011;-67,3786501769463
+CHUBUT;Escalante;Barrio Caleta Olivares;0;--;--;--;--;--;--;--;--;--;26021020.0;-45,7757274867383;-67,3895609391029
+BUENOS AIRES;Bahía Blanca;Grunbein;0;--;--;--;--;--;--;--;SI;SI;6056020.0;-38,7471079502848;-62,1891166907456
+BUENOS AIRES;Bahía Blanca;Ingeniero White;0;--;--;--;SI;SI;--;--;SI;SI;6056020.0;-38,7794670416666;-62,262951248824
+BUENOS AIRES;General Juan Madariaga;Barrio Kennedy;0;--;--;--;--;--;--;--;SI;SI;6315010.0;-37,0062217702401;-57,1417255856769
+CHUBUT;Escalante;Barrio Castelli;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,8180472017947;-67,4820283811333
+CHUBUT;Escalante;Barrio Ciudadela;0;--;--;--;--;--;--;--;--;--;26021020.0;-45,7969335159784;-67,5038537987439
+BUENOS AIRES;Luján;Cortines;0;SI;--;--;SI;--;SI;SI;SI;SI;6497060.0;-34,5590633814317;-59,2044266157478
+BUENOS AIRES;Luján;Country Club Las Praderas;0;--;--;--;--;--;--;--;--;SI;6497070.0;-34,4902656696955;-59,1324863072423
+BUENOS AIRES;Luján;José María Jáuregui (Est. Jáuregui);0;SI;SI;--;SI;--;SI;SI;SI;SI;6497060.0;-34,6028553295745;-59,1757529081248
+BUENOS AIRES;Luján;Lezica y Torrezuri;0;--;--;--;--;--;SI;--;SI;SI;6497060.0;-34,5806997364467;-59,0582308683017
+BUENOS AIRES;Luján;Open Door (Est. Dr. Domingo Cabred);0;SI;--;SI;--;--;SI;SI;SI;SI;6497060.0;-34,4890162386569;-59,0617361279716
+CHUBUT;Escalante;Barrio Gasoducto;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,7935756857887;-67,5039634957522
+CHUBUT;Escalante;Barrio Guemes;0;--;--;--;--;--;--;--;--;--;26021020.0;-45,8217123319455;-67,4921204994732
+CHUBUT;Escalante;Barrio Laprida;0;--;--;--;--;--;--;--;--;--;26021020.0;-45,8286806171316;-67,5429175806012
+CHUBUT;Escalante;Barrio Manantial Rosales;0;--;--;--;--;--;--;--;--;--;26021020.0;-45,8171962363307;-67,5384037096511
+CHUBUT;Escalante;Barrio Militar - Aeropuerto Militar;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,7880202044185;-67,4666859492816
+CHUBUT;Escalante;Barrio Prospero Palazzo;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,7954205855384;-67,4728320436648
+CHUBUT;Escalante;Barrio Restinga Ali;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,7933095274399;-67,4097861221166
+CHUBUT;Escalante;Barrio Rodriguez Peña;0;--;--;--;--;--;--;--;--;--;26021020.0;-45,8042084863804;-67,4855016639952
+CHUBUT;Escalante;Barrio Saavedra;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,8455307615478;-67,5145852993993
+CHUBUT;Escalante;Barrio Sarmiento;0;--;--;--;--;--;--;--;SI;--;26021020.0;-45,8191333517328;-67,502587140919
+CHUBUT;Escalante;Barrio Villa S.U.P.E.;0;--;--;--;--;--;--;--;SI;SI;26021020.0;-45,8367380263826;-67,5021112026914
