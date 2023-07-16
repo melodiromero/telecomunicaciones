@@ -90,7 +90,7 @@ Se indagó este dataset en particular para obtener información acerca de la ubi
 | link |  Link a la vista del recurso en el portal. |
 
 ## 3. EDA - Análisis Exploratorio de Datos
-Se realizó el análisis explotatorio de los datos para cada uno de los datasets previamente descargados en formato CSV. En cada eda, se analizan los datos, se describen los mismos, detectando outliers sin eliminarlos, se sigue por la descripción de la distribución de sus datos y se ofrecen visualizaciones que contribuyen a la labor de conclusiones que sean útiles para los indicadores de rendimientos y la toma de decisiones oportunas en la cumplimentación del objetivo propuesto-
+Se realizó el análisis explotatorio de los datos para cada uno de los datasets previamente descargados en formato CSV. En cada eda, se analizan los datos, se describen los mismos, detectando outliers sin eliminarlos, se sigue por la descripción de la distribución de sus datos y se ofrecen visualizaciones que contribuyen a la labor de conclusiones que sean útiles para los indicadores de rendimientos y la toma de decisiones oportunas en la cumplimentación de los objetivos específicos. El analisis exploratorio de cada dataset se halla en la carpeta titulada eda, contiene tres edas acerca de las tecnologias de acceso a internet y la conectividad de las mismas a lo largo de todo el territorio argentino.
 
 ## 5. Informe
 
