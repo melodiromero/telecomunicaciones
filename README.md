@@ -24,11 +24,11 @@ Como idicadores claves de desempeño se han establecido los siguientes:
 
 >[!IMPORTANT]
 >
->Expandir la tecnología de fibra óptica a todas las ciudades capitales de Argentina en un año.
+>Impulsar la demanda de servicio de internet (en cualquier tecnología) en ciudades con potenciales clientes, en el período de un año.
 
 >[!IMPORTANT]
 >
->Impulsar la demanda de servicio de internet (en cualquier tecnología) en cuidades con potenciales clientes, en el período de un año.
+>Expandir la tecnología de fibra óptica a todas las ciudades capitales de Argentina que aún no lo possen en el término de dos años.
 
 >[!IMPORTANT]
 >
@@ -42,9 +42,11 @@ Se hacen uso de los siguientes datas:
 
 [Acceso de internet por tecnologías](datasets/Internet_Accesos-por-tecnologia.csv) y 
 [acceso de internet por tecnologia y provincia](datasets/Internet_Accesos-por-tecnologiayporprovincia.csv)
+Se analizaron estos datas con el fin de evaluar la situación actual de las telecomunicaciones en Argentina, al menos d elos ultimos registros datan del año 2022, 3er trimestr(Julio-Septiembre). 
 
 
 [conectividad de internet](datasets/ConectividadalserviciodeInternet.csv) y [listado de localidades con conectividad a internet](datasets/Listadodelocalidadesconconectividadainternet.csv)
+Con el fin de responder a nuestros KPI's se exploró este dataset, identificando oprotunidades de crecimiento. 
 
 ### 2.2. Fuentes adicionales
 [listado de provincias](datasets/provincias.csv)
@@ -69,17 +71,30 @@ Se indagó este dataset en particular para obtener información acerca de la ubi
 | link |  Link a la vista del recurso en el portal. |
 
 ## EDA - Análisis Exploratorio de Datos
-Se realizó el análisis explotatorio de los datos para cada uno de los datasets previamente descargados en formato CSV. En cada eda, se analizan los datos, se describen los mismos, detectando outliers sin eliminarlos, se sigue por la descripcion de la distribuciond e sus datos y se ofrecen visualizaciones que contribuyen a la labor de conclusiones que sean utiles para la toma de decisiones oportunas-
-
-Para acceder al eda de cada dataset por favor ingresar aquí (agregar referencia).
-
+Se realizó el análisis explotatorio de los datos para cada uno de los datasets previamente descargados en formato CSV. En cada eda, se analizan los datos, se describen los mismos, detectando outliers sin eliminarlos, se sigue por la descripción de la distribución de sus datos y se ofrecen visualizaciones que contribuyen a la labor de conclusiones que sean útiles para los indicadores de rendimientos y la toma de decisiones oportunas en la cumplimentación del objetivo propuesto-
 
 ## Conclusiones
-falta
+
+En base a lo analizado, se concluye que **el servicio de internet más contratado es la modalidad de cable modem** y la minoría se representa por la categoría otros. 
+
+![Evolución de las tecnologías en el periodo 2014 - 2022](graficos/evolucion_tecnologias.png)
+
+![Distribución de las tecnologías en el periodo 2014 - 2022](graficos/distribucion_tecnologias_periodo2014_2022.png)
+
+![Distribución de las tecnologías en el año 2022](graficos/distribucion_tecnologias_anio2022.png)
+
+
+Se observa que **a lo largo de los años, hubo un mayor crecimiento en la demanda de tecnología de acceso de internet por cable modem, con un 50% y fibra óptica con 37%**, no asi, en el caso de ADSL, que fue decreciendo. En sus inicios la modalidad que inicio fuertemente fue ADSL con cable modem, pero dado el último año (2022) se registra que la prominente es cabla módem (55%) y le sigue fibra óptica (24%).
+
+En cuando a la categoria "otros", según la fuente del ENACOM[^2] y la exploración de la conectividad en el servicio de internet, en esta modalidad pueden incluirse los contratados por acceso telefónico (Dial-Up), acceso por red de telefonía móvil con 3G y 4G, y el acceso por linea eléctrica.
+
+Se recomienda eliminar los registros de la categoría otros para casos en que quiera aplicarse modelos predictivos, pues tienen muy pocos datos de esa clase y no se tiene la certeza a que tipo de tecnologia de acceso de internet corresponde.
 
 ## Referencias
 
 [^1]: El Enacom es un ente autárquico y descentralizado que funciona en el ámbito de la Jefatura de Gabinete de Ministros de la Nación Argentina. Su objetivo es conducir el proceso de convergencia tecnológica y crear condiciones estables de mercado para garantizar el acceso de todos los argentinos a los servicios de internet, telefonía fija y móvil, radio, postales y televisión.Enacom fue creado en Diciembre del 2015 a través del Decreto 267 en el cual se establece su rol como regulador de las comunicaciones con el fin de asegurar que todos los usuarios del país cuenten con servicios de calidad. Fuente: https://enacom.gob.ar/
+
+[^2]: Tipos de acceso a internet https://www.enacom.gob.ar/tipos-de-conexion_p112
 
 
 

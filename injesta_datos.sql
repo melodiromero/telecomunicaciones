@@ -374,8 +374,74 @@ SELECT * FROM internet_accesos_portecnologia_porprovincia;
 
 ALTER TABLE internet_accesos_portecnologia_porprovincia CHANGE `provincia` `id_provincia` INT(11);
 
- 
-# ver en el Powe Bi para trabajar...
+
+# ENTIDADES DE AÑOS Y PERIODOS
+-- Entidad Años
+DROP TABLE anios;
+CREATE TABLE IF NOT EXISTS anios(
+id_anio INT(11) AUTO_INCREMENT,
+anio	YEAR NOT NULL,
+PRIMARY KEY(id_anio)
+);
+
+INSERT INTO anios(anio)
+SELECT DISTINCT TRIM(i.anio) FROM internet_accesos_portecnologia_porprovincia AS i ORDER BY 1 ASC ;
+
+SELECT * FROM anios;
+
+-- Entidad Trimestres
+DROP TABLE trimestres;
+CREATE TABLE IF NOT EXISTS trimestres(
+id_trimestre 	INT(11) AUTO_INCREMENT,
+numero		TINYINT(1) NOT NULL,
+descripcion	VARCHAR(50) NOT NULL,
+PRIMARY KEY(id_trimestre)
+);
+
+INSERT INTO trimestres(numero, descripcion) VALUES(1, 'Enero-Marzo');
+INSERT INTO trimestres(numero, descripcion) VALUES(2, 'Abril-Junio');
+INSERT INTO trimestres(numero, descripcion) VALUES(3, 'Julio-Septiembre');
+INSERT INTO trimestres(numero, descripcion) VALUES(4, 'Octubre-Diciembre');
+
+SELECT * FROM trimestres;
+
+-- Ahora se reemplaza en donde corresponda:
+-- se edita el tipo de dato year a intero
+ALTER TABLE internet_accesos_portecnologia CHANGE `anio` `id_anio` INT(11);
+
+UPDATE internet_accesos_portecnologia AS i SET i.id_anio = (SELECT a.id_anio FROM anios AS a WHERE i.id_anio = a.anio)
+
+-- En cuanto al trimestre coincide el valor del id con el de internet_accesos_portecnologia (y mismo caso sera con internet_accesos_portecnologia_porprovincia), solo se renombra
+ALTER TABLE internet_accesos_portecnologia CHANGE `trimestre` `id_trimestre` TINYINT(1) NOT NULL;
+
+-- se borra periodo
+ALTER TABLE internet_accesos_portecnologia DROP COLUMN periodo;
+
+SELECT * FROM internet_accesos_portecnologia;
+
+-- Ahora se ve la tabla `internet_accesos_portecnologia_porprovincia`
+ALTER TABLE internet_accesos_portecnologia_porprovincia CHANGE `anio` `id_anio` INT(11) NOT NULL;
+
+ALTER TABLE internet_accesos_portecnologia_porprovincia CHANGE `trimestre` `id_trimestre` TINYINT(1) NOT NULL;
+
+UPDATE internet_accesos_portecnologia_porprovincia AS i SET i.id_anio = (SELECT a.id_anio FROM anios AS a WHERE i.id_anio = a.anio)
+
+-- QUEDA NORMALIZAR LAS TECNOLOGIAS
+SELECT SUM(fibraoptica) FROM `internet_accesos_portecnologia_porprovincia`
 
 
+SELECT * FROM `localidades_accesointernet` WHERE localidad = 'Ciudad Autónoma de Buenos Aires';
+
+
+SELECT SUM(total) FROM `internet_accesos_portecnologia` WHERE 
+
+
+SELECT * FROM `mapeo_localidades_tecnologias` WHERE poblacion = 0`accesos_baf_trimestre`
+
+-- se mejora la calidad de los datos en `mapeo_localidades_tecnologias`, ya que repite los campos id_provincia y id_partido, 
+-- con id_localidad es suficiente, que que se joinea con localidades y se obtienen esos datos del id_provincia y id_partido
+
+ALTER TABLE mapeo_localidades_tecnologias DROP COLUMN id_provincia;
+
+ALTER TABLE mapeo_localidades_tecnologias DROP COLUMN id_partido;
 
